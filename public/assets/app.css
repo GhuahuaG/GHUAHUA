@@ -241,6 +241,12 @@ h3 {
 
 .article-card {
   padding: 18px;
+  scroll-margin-top: 28px;
+}
+
+.article-card:target {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(23, 107, 91, 0.16), var(--shadow);
 }
 
 .article-head {

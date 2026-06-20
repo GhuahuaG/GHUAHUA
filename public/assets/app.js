@@ -174,6 +174,7 @@ function matchesFilters(article) {
 function renderArticle(article) {
   const fragment = els.template.content.cloneNode(true);
   const card = fragment.querySelector(".article-card");
+  card.id = `article-${article.id}`;
   card.dataset.region = article.region;
   card.dataset.topic = article.topic;
 

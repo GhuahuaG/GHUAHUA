@@ -2,15 +2,13 @@
   "date": "2026-06-20",
   "displayDate": "2026年6月20日",
   "timeZone": "Asia/Shanghai",
-  "generatedAt": "2026-06-20T07:58:36.860Z",
+  "generatedAt": "2026-06-20T08:17:03.707Z",
   "siteUrl": "https://ghuahuag.github.io/GHUAHUA/",
   "stats": {
-    "selected": 20,
-    "candidates": 20,
+    "selected": 22,
+    "candidates": 22,
     "errors": [
-      "GDELT global/semiconductor: 429 Too Many Requests",
       "GDELT global/rf: 429 Too Many Requests",
-      "GDELT china/semiconductor: 429 Too Many Requests",
       "RSS Microwave Journal: 403 Forbidden"
     ]
   },
@@ -143,6 +141,13 @@
       "score": 44
     },
     {
+      "id": "n1cf63231",
+      "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ...",
+      "source": "morningstar.com",
+      "reason": "多源出现，事件关注度上升",
+      "score": 43
+    },
+    {
       "id": "n9a36829b",
       "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
       "source": "IT之家",
@@ -153,13 +158,6 @@
       "id": "nddd6e5",
       "title": "All Semiconductor Roads Lead to Taiwan",
       "source": "EE Times",
-      "reason": "来自订阅源，来源可追踪",
-      "score": 39
-    },
-    {
-      "id": "n3f83c1d3",
-      "title": "The US says ASML’s top chip tool may be in China, but how?",
-      "source": "TechCrunch AI",
       "reason": "来自订阅源，来源可追踪",
       "score": 39
     }
@@ -759,6 +757,53 @@
               "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
             },
             {
+              "id": "n1cf63231",
+              "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ...",
+              "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
+              "source": "morningstar.com",
+              "domain": "morningstar.com",
+              "publishedAt": "2026-06-20T04:30:00.000Z",
+              "snippet": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+              "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "gdelt",
+              "language": "English",
+              "raw": {
+                "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
+                "url_mobile": "",
+                "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ... ",
+                "seendate": "20260620T043000Z",
+                "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+                "domain": "morningstar.com",
+                "language": "English",
+                "sourcecountry": "China"
+              },
+              "mentions": 2,
+              "mergedSources": [
+                "morningstar.com"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 43,
+              "scoreReasons": [
+                "多源出现，事件关注度上升",
+                "涉及关键公司：Intel、SK hynix、Micron",
+                "发布时间较新"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：morningstar.com",
+                "时间：06/20 12:30",
+                "主题：半导体产业",
+                "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-o..."
+              ],
+              "summary": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+              "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+            },
+            {
               "id": "nddd6e5",
               "title": "All Semiconductor Roads Lead to Taiwan",
               "url": "https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/",
@@ -805,52 +850,6 @@
               "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
             },
             {
-              "id": "n1cf63231",
-              "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ...",
-              "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
-              "source": "morningstar.com",
-              "domain": "morningstar.com",
-              "publishedAt": "2026-06-20T04:30:00.000Z",
-              "snippet": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-              "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-              "topic": "semiconductor",
-              "region": "global",
-              "origin": "gdelt",
-              "language": "English",
-              "raw": {
-                "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
-                "url_mobile": "",
-                "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ... ",
-                "seendate": "20260620T043000Z",
-                "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-                "domain": "morningstar.com",
-                "language": "English",
-                "sourcecountry": "China"
-              },
-              "mentions": 1,
-              "mergedSources": [
-                "morningstar.com"
-              ],
-              "topicLabel": "半导体产业",
-              "regionLabel": "全球新闻",
-              "score": 37,
-              "scoreReasons": [
-                "涉及关键公司：Intel、SK hynix、Micron",
-                "发布时间较新"
-              ],
-              "recommendation": "重点扫读",
-              "keyFacts": [
-                "来源：morningstar.com",
-                "时间：06/20 12:30",
-                "主题：半导体产业",
-                "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-o..."
-              ],
-              "summary": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
-              "whyRead": "信息价值偏背景，可作为后续检索线索。",
-              "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
-            },
-            {
               "id": "n7b774166",
               "title": "Amazon’s Newest Gambit: Selling AI Chips",
               "url": "https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/",
@@ -895,6 +894,52 @@
               "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
               "whyRead": "信息价值偏背景，可作为后续检索线索。",
               "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n8ccf4de1",
+              "title": "Post - silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech imec , ASML , and TSMC fab complementary 2D - material transistors at 50nm pitch on a 300mm wafer",
+              "url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer",
+              "source": "tomshardware.com",
+              "domain": "tomshardware.com",
+              "publishedAt": "2026-06-19T14:00:00.000Z",
+              "snippet": "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png",
+              "image": "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "gdelt",
+              "language": "English",
+              "raw": {
+                "url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer",
+                "url_mobile": "",
+                "title": "Post - silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech imec , ASML , and TSMC fab complementary 2D - material transistors at 50nm pitch on a 300mm wafer",
+                "seendate": "20260619T140000Z",
+                "socialimage": "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png",
+                "domain": "tomshardware.com",
+                "language": "English",
+                "sourcecountry": "United States"
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "tomshardware.com"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 35,
+              "scoreReasons": [
+                "涉及关键公司：TSMC、ASML",
+                "涉及技术发布、量产或路线图：breakthrough"
+              ],
+              "recommendation": "备查",
+              "keyFacts": [
+                "来源：tomshardware.com",
+                "时间：06/19 22:00",
+                "主题：半导体产业",
+                "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png"
+              ],
+              "summary": "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
             },
             {
               "id": "n5e3bb3e8",
@@ -1148,7 +1193,54 @@
         },
         "semiconductor": {
           "label": "半导体产业",
-          "articles": []
+          "articles": [
+            {
+              "id": "ne7d670fe",
+              "title": "国产算力芯片TOP30发布 ： 赛道细分竞争 ， 中诚华隆曦望加速IPO突围 - 业界动态 - ITBear科技资讯",
+              "url": "https://www.itbear.com.cn/html/2026-06/1403655.html",
+              "source": "itbear.com.cn",
+              "domain": "itbear.com.cn",
+              "publishedAt": "2026-06-19T21:30:00.000Z",
+              "snippet": "",
+              "image": "",
+              "topic": "semiconductor",
+              "region": "china",
+              "origin": "gdelt",
+              "language": "Chinese",
+              "raw": {
+                "url": "https://www.itbear.com.cn/html/2026-06/1403655.html",
+                "url_mobile": "",
+                "title": "国产算力芯片TOP30发布 ： 赛道细分竞争 ， 中诚华隆曦望加速IPO突围 - 业界动态 - ITBear科技资讯",
+                "seendate": "20260619T213000Z",
+                "socialimage": "",
+                "domain": "itbear.com.cn",
+                "language": "Chinese",
+                "sourcecountry": "China"
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "itbear.com.cn"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "中国新闻",
+              "score": 35,
+              "scoreReasons": [
+                "涉及融资、并购或资本开支：IPO",
+                "涉及技术发布、量产或路线图：发布",
+                "发布时间较新"
+              ],
+              "recommendation": "备查",
+              "keyFacts": [
+                "来源：itbear.com.cn",
+                "时间：06/20 05:30",
+                "主题：半导体产业"
+              ],
+              "summary": "该新闻标题命中了产业关键词，但公开摘要有限。建议结合原文确认事件细节、涉及主体与后续影响。",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+            }
+          ]
         },
         "rf": {
           "label": "射频芯片产业",
@@ -1162,7 +1254,7 @@
     "继续跟踪 Amazon 相关后续报道、公告和供应链反馈。",
     "继续跟踪 OpenAI 相关后续报道、公告和供应链反馈。",
     "继续跟踪 Intel 相关后续报道、公告和供应链反馈。",
-    "继续跟踪 华为 相关后续报道、公告和供应链反馈。",
+    "继续跟踪 ASML 相关后续报道、公告和供应链反馈。",
     "关注出口管制、监管审查和补贴政策是否出现后续细则。"
   ],
   "articles": [
@@ -1403,6 +1495,53 @@
       "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
       "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
       "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n1cf63231",
+      "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ...",
+      "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
+      "source": "morningstar.com",
+      "domain": "morningstar.com",
+      "publishedAt": "2026-06-20T04:30:00.000Z",
+      "snippet": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "gdelt",
+      "language": "English",
+      "raw": {
+        "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
+        "url_mobile": "",
+        "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ... ",
+        "seendate": "20260620T043000Z",
+        "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+        "domain": "morningstar.com",
+        "language": "English",
+        "sourcecountry": "China"
+      },
+      "mentions": 2,
+      "mergedSources": [
+        "morningstar.com"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 43,
+      "scoreReasons": [
+        "多源出现，事件关注度上升",
+        "涉及关键公司：Intel、SK hynix、Micron",
+        "发布时间较新"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：morningstar.com",
+        "时间：06/20 12:30",
+        "主题：半导体产业",
+        "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-o..."
+      ],
+      "summary": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+      "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
     },
     {
       "id": "n9a36829b",
@@ -1682,52 +1821,6 @@
       "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
     },
     {
-      "id": "n1cf63231",
-      "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ...",
-      "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
-      "source": "morningstar.com",
-      "domain": "morningstar.com",
-      "publishedAt": "2026-06-20T04:30:00.000Z",
-      "snippet": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "topic": "semiconductor",
-      "region": "global",
-      "origin": "gdelt",
-      "language": "English",
-      "raw": {
-        "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
-        "url_mobile": "",
-        "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ... ",
-        "seendate": "20260620T043000Z",
-        "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-        "domain": "morningstar.com",
-        "language": "English",
-        "sourcecountry": "China"
-      },
-      "mentions": 1,
-      "mergedSources": [
-        "morningstar.com"
-      ],
-      "topicLabel": "半导体产业",
-      "regionLabel": "全球新闻",
-      "score": 37,
-      "scoreReasons": [
-        "涉及关键公司：Intel、SK hynix、Micron",
-        "发布时间较新"
-      ],
-      "recommendation": "重点扫读",
-      "keyFacts": [
-        "来源：morningstar.com",
-        "时间：06/20 12:30",
-        "主题：半导体产业",
-        "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-o..."
-      ],
-      "summary": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
-      "whyRead": "信息价值偏背景，可作为后续检索线索。",
-      "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
-    },
-    {
       "id": "nbe48918",
       "title": "广东：将依托省开源鸿蒙适配中心，推进多行业示范应用和规模化适配",
       "url": "https://www.ithome.com/0/966/519.htm",
@@ -1913,6 +2006,98 @@
       "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
       "whyRead": "信息价值偏背景，可作为后续检索线索。",
       "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "ne7d670fe",
+      "title": "国产算力芯片TOP30发布 ： 赛道细分竞争 ， 中诚华隆曦望加速IPO突围 - 业界动态 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-06/1403655.html",
+      "source": "itbear.com.cn",
+      "domain": "itbear.com.cn",
+      "publishedAt": "2026-06-19T21:30:00.000Z",
+      "snippet": "",
+      "image": "",
+      "topic": "semiconductor",
+      "region": "china",
+      "origin": "gdelt",
+      "language": "Chinese",
+      "raw": {
+        "url": "https://www.itbear.com.cn/html/2026-06/1403655.html",
+        "url_mobile": "",
+        "title": "国产算力芯片TOP30发布 ： 赛道细分竞争 ， 中诚华隆曦望加速IPO突围 - 业界动态 - ITBear科技资讯",
+        "seendate": "20260619T213000Z",
+        "socialimage": "",
+        "domain": "itbear.com.cn",
+        "language": "Chinese",
+        "sourcecountry": "China"
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "itbear.com.cn"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "中国新闻",
+      "score": 35,
+      "scoreReasons": [
+        "涉及融资、并购或资本开支：IPO",
+        "涉及技术发布、量产或路线图：发布",
+        "发布时间较新"
+      ],
+      "recommendation": "备查",
+      "keyFacts": [
+        "来源：itbear.com.cn",
+        "时间：06/20 05:30",
+        "主题：半导体产业"
+      ],
+      "summary": "该新闻标题命中了产业关键词，但公开摘要有限。建议结合原文确认事件细节、涉及主体与后续影响。",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+    },
+    {
+      "id": "n8ccf4de1",
+      "title": "Post - silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech imec , ASML , and TSMC fab complementary 2D - material transistors at 50nm pitch on a 300mm wafer",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer",
+      "source": "tomshardware.com",
+      "domain": "tomshardware.com",
+      "publishedAt": "2026-06-19T14:00:00.000Z",
+      "snippet": "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png",
+      "image": "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "gdelt",
+      "language": "English",
+      "raw": {
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer",
+        "url_mobile": "",
+        "title": "Post - silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech imec , ASML , and TSMC fab complementary 2D - material transistors at 50nm pitch on a 300mm wafer",
+        "seendate": "20260619T140000Z",
+        "socialimage": "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png",
+        "domain": "tomshardware.com",
+        "language": "English",
+        "sourcecountry": "United States"
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "tomshardware.com"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 35,
+      "scoreReasons": [
+        "涉及关键公司：TSMC、ASML",
+        "涉及技术发布、量产或路线图：breakthrough"
+      ],
+      "recommendation": "备查",
+      "keyFacts": [
+        "来源：tomshardware.com",
+        "时间：06/19 22:00",
+        "主题：半导体产业",
+        "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png"
+      ],
+      "summary": "https://cdn.mos.cms.futurecdn.net/AqF8YRUJkv6Z6ikQqopojc-710-80.png",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
     },
     {
       "id": "n5e3bb3e8",

@@ -55,7 +55,23 @@ async function pushWechat(report) {
   });
   const text = await response.text();
   if (!response.ok) throw new Error(`Pushplus ${response.status}: ${text.slice(0, 200)}`);
-  console.log(text);
+  assertPushplusAccepted(text);
+}
+
+function assertPushplusAccepted(text) {
+  let payload;
+  try {
+    payload = JSON.parse(text);
+  } catch {
+    throw new Error(`Pushplus returned non-JSON response: ${text.slice(0, 200)}`);
+  }
+
+  if (payload.code === 200 || payload.code === 0) {
+    console.log(`Pushplus accepted message: ${payload.msg || "ok"}`);
+    return;
+  }
+
+  throw new Error(`Pushplus rejected message: code ${payload.code}, ${payload.msg || "no message"}`);
 }
 
 function buildPushContent(report, reportUrl) {

@@ -25,14 +25,11 @@ jobs:
         with:
           node-version: 22
 
-      - name: Generate daily report and push to WeChat
-        run: node scripts/generate-daily.js --push
+      - name: Generate daily report
+        run: node scripts/generate-daily.js
         env:
           TZ: Asia/Shanghai
           SITE_URL: https://ghuahuag.github.io/GHUAHUA/
-          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
-          PUSHPLUS_CHANNEL: wechat
-          PUSHPLUS_TOPIC: ${{ secrets.PUSHPLUS_TOPIC }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
@@ -52,3 +49,11 @@ jobs:
           path: public
 
       - uses: actions/deploy-pages@v4
+
+      - name: Push report to WeChat
+        run: node scripts/push-wechat.js
+        env:
+          SITE_URL: https://ghuahuag.github.io/GHUAHUA/
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          PUSHPLUS_CHANNEL: wechat
+          PUSHPLUS_TOPIC: ${{ secrets.PUSHPLUS_TOPIC }}

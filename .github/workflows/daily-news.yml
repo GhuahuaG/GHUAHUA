@@ -2,9 +2,16 @@ name: Daily Industry News Assistant
 
 on:
   workflow_dispatch:
+    inputs:
+      force_push:
+        description: "Force WeChat push even if today's report was already sent"
+        required: false
+        default: false
+        type: boolean
   schedule:
-    # Beijing 20:30 = UTC 12:30.
+    # Beijing 20:30 = UTC 12:30. Beijing 20:45 is a backup run.
     - cron: "30 12 * * *"
+    - cron: "45 12 * * *"
 
 permissions:
   contents: write
@@ -50,6 +57,9 @@ jobs:
 
       - uses: actions/deploy-pages@v4
 
+      - name: Refresh push state
+        run: git pull --rebase origin main
+
       - name: Push report to WeChat
         run: node scripts/push-wechat.js
         env:
@@ -57,3 +67,10 @@ jobs:
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
           PUSHPLUS_CHANNEL: wechat
           PUSHPLUS_TOPIC: ${{ secrets.PUSHPLUS_TOPIC }}
+          FORCE_PUSH: ${{ inputs.force_push }}
+
+      - name: Commit WeChat push state
+        run: |
+          git add public/data/push-state.json
+          git diff --cached --quiet || git commit -m "Update WeChat push state"
+          git push

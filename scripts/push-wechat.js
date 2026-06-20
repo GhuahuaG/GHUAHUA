@@ -1,9 +1,10 @@
-import { readFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 
 const ROOT = path.resolve(new URL("..", import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, "$1"));
 const latestPath = path.join(ROOT, "public", "data", "latest.json");
+const pushStatePath = path.join(ROOT, "public", "data", "push-state.json");
 
 loadDotEnv();
 
@@ -30,6 +31,13 @@ function loadDotEnv() {
 }
 
 async function pushWechat(report) {
+  const forcePush = ["1", "true", "yes"].includes(String(process.env.FORCE_PUSH || "").toLowerCase());
+  const pushState = await readPushState();
+  if (!forcePush && pushState.lastPushedDate === report.date) {
+    console.log(`Report ${report.date} was already pushed at ${pushState.lastPushedAt}; skipping Pushplus.`);
+    return;
+  }
+
   const token = process.env.PUSHPLUS_TOKEN;
   if (!token) {
     throw new Error("PUSHPLUS_TOKEN 为空。请在 .env 或 GitHub Secrets 中配置。");
@@ -55,7 +63,29 @@ async function pushWechat(report) {
   });
   const text = await response.text();
   if (!response.ok) throw new Error(`Pushplus ${response.status}: ${text.slice(0, 200)}`);
-  assertPushplusAccepted(text);
+  const payload = assertPushplusAccepted(text);
+  await writePushState(report, payload);
+}
+
+async function readPushState() {
+  if (!existsSync(pushStatePath)) return {};
+  try {
+    return JSON.parse(await readFile(pushStatePath, "utf8"));
+  } catch {
+    return {};
+  }
+}
+
+async function writePushState(report, payload) {
+  const state = {
+    lastPushedDate: report.date,
+    lastPushedDisplayDate: report.displayDate,
+    lastPushedAt: new Date().toISOString(),
+    lastPushplusCode: payload.code ?? null,
+    lastPushplusMessage: payload.msg ?? null
+  };
+  await writeFile(pushStatePath, `${JSON.stringify(state, null, 2)}\n`, "utf8");
+  console.log(`Recorded WeChat push state for ${report.date}.`);
 }
 
 function assertPushplusAccepted(text) {
@@ -68,7 +98,7 @@ function assertPushplusAccepted(text) {
 
   if (payload.code === 200 || payload.code === 0) {
     console.log(`Pushplus accepted message: ${payload.msg || "ok"}`);
-    return;
+    return payload;
   }
 
   throw new Error(`Pushplus rejected message: code ${payload.code}, ${payload.msg || "no message"}`);

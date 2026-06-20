@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f8f5">
+    <title>产业新闻助手日报</title>
+    <link rel="stylesheet" href="./assets/app.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">AI / 半导体 / 射频芯片</p>
+        <h1>产业新闻助手日报</h1>
+      </div>
+      <div class="date-box">
+        <span id="display-date">加载中</span>
+        <small id="generated-at"></small>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="rail">
+        <section class="panel">
+          <h2>阅读筛选</h2>
+          <div class="control-group" aria-label="地区筛选">
+            <button class="seg active" data-filter-region="all">全部</button>
+            <button class="seg" data-filter-region="global">全球</button>
+            <button class="seg" data-filter-region="china">中国</button>
+          </div>
+          <div class="control-group" aria-label="主题筛选">
+            <button class="seg active" data-filter-topic="all">全部</button>
+            <button class="seg" data-filter-topic="ai">AI</button>
+            <button class="seg" data-filter-topic="semiconductor">半导体</button>
+            <button class="seg" data-filter-topic="rf">射频</button>
+          </div>
+          <div class="control-group" aria-label="优先级筛选">
+            <button class="seg active" data-filter-priority="all">全部</button>
+            <button class="seg" data-filter-priority="read">完整阅读</button>
+            <button class="seg" data-filter-priority="scan">重点扫读</button>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>历史日报</h2>
+          <div id="history" class="history-list"></div>
+        </section>
+      </aside>
+
+      <section class="content">
+        <section class="summary-band">
+          <div>
+            <h2>今日速览</h2>
+            <ol id="highlights" class="clean-list"></ol>
+          </div>
+          <div>
+            <h2>建议完整阅读</h2>
+            <ol id="recommended" class="clean-list"></ol>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>新闻正文</h2>
+          <div id="article-count" class="count-line"></div>
+          <div id="articles" class="article-list"></div>
+        </section>
+
+        <section class="panel">
+          <h2>明日关注</h2>
+          <ul id="tomorrow" class="watch-list"></ul>
+        </section>
+      </section>
+    </main>
+
+    <template id="article-template">
+      <article class="article-card">
+        <div class="article-head">
+          <div>
+            <div class="meta-line"></div>
+            <h3></h3>
+          </div>
+          <span class="priority"></span>
+        </div>
+        <p class="summary"></p>
+        <div class="facts"></div>
+        <div class="impact"></div>
+        <div class="why"></div>
+        <div class="article-actions">
+          <a class="source-link" target="_blank" rel="noopener">打开原文</a>
+          <span class="credibility"></span>
+        </div>
+      </article>
+    </template>
+
+    <script src="./assets/app.js" type="module"></script>
+  </body>
+</html>

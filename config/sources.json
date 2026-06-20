@@ -1,0 +1,327 @@
+{
+  "settings": {
+    "timeZone": "Asia/Shanghai",
+    "maxArticles": 36,
+    "perCategoryLimit": 4
+  },
+  "topics": {
+    "ai": {
+      "label": "AI产业",
+      "keywords": [
+        "AI",
+        "artificial intelligence",
+        "generative AI",
+        "large language model",
+        "LLM",
+        "foundation model",
+        "AI agent",
+        "AI chip",
+        "GPU",
+        "accelerator",
+        "data center",
+        "算力",
+        "人工智能",
+        "大模型",
+        "智能体",
+        "生成式AI",
+        "模型",
+        "数据中心"
+      ]
+    },
+    "semiconductor": {
+      "label": "半导体产业",
+      "keywords": [
+        "semiconductor",
+        "chip",
+        "foundry",
+        "wafer",
+        "fab",
+        "lithography",
+        "advanced packaging",
+        "HBM",
+        "memory",
+        "EDA",
+        "2nm",
+        "3nm",
+        "7nm",
+        "TSMC",
+        "ASML",
+        "Samsung",
+        "Intel",
+        "Micron",
+        "SK hynix",
+        "半导体",
+        "芯片",
+        "晶圆",
+        "晶圆厂",
+        "先进封装",
+        "光刻",
+        "存储",
+        "中芯国际",
+        "华虹"
+      ]
+    },
+    "rf": {
+      "label": "射频芯片产业",
+      "keywords": [
+        "RF",
+        "radio frequency",
+        "RF front-end",
+        "RFFE",
+        "power amplifier",
+        "PA module",
+        "filter",
+        "SAW",
+        "BAW",
+        "GaN",
+        "SiGe",
+        "mmWave",
+        "5G",
+        "6G",
+        "Qualcomm",
+        "Qorvo",
+        "Skyworks",
+        "Broadcom",
+        "Murata",
+        "射频",
+        "射频前端",
+        "功率放大器",
+        "滤波器",
+        "毫米波",
+        "氮化镓",
+        "卓胜微",
+        "唯捷创芯",
+        "昂瑞微",
+        "慧智微"
+      ]
+    }
+  },
+  "importanceSignals": {
+    "policy": [
+      "export control",
+      "sanction",
+      "tariff",
+      "ban",
+      "license",
+      "regulation",
+      "subsidy",
+      "CHIPS Act",
+      "investigation",
+      "反垄断",
+      "制裁",
+      "出口管制",
+      "禁令",
+      "许可证",
+      "监管",
+      "补贴",
+      "政策",
+      "关税"
+    ],
+    "capital": [
+      "capex",
+      "investment",
+      "funding",
+      "IPO",
+      "acquisition",
+      "merger",
+      "joint venture",
+      "spending",
+      "融资",
+      "投资",
+      "并购",
+      "收购",
+      "上市",
+      "资本开支",
+      "合资"
+    ],
+    "operations": [
+      "earnings",
+      "revenue",
+      "guidance",
+      "order",
+      "contract",
+      "shipment",
+      "capacity",
+      "yield",
+      "supply chain",
+      "财报",
+      "营收",
+      "指引",
+      "订单",
+      "合同",
+      "出货",
+      "产能",
+      "良率",
+      "供应链"
+    ],
+    "technology": [
+      "breakthrough",
+      "roadmap",
+      "launch",
+      "tape-out",
+      "mass production",
+      "pilot production",
+      "benchmark",
+      "性能",
+      "量产",
+      "流片",
+      "发布",
+      "路线图",
+      "突破",
+      "试产"
+    ]
+  },
+  "majorEntities": [
+    "NVIDIA",
+    "AMD",
+    "Intel",
+    "TSMC",
+    "ASML",
+    "Samsung",
+    "SK hynix",
+    "Micron",
+    "Broadcom",
+    "Qualcomm",
+    "Qorvo",
+    "Skyworks",
+    "MediaTek",
+    "Apple",
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "Meta",
+    "OpenAI",
+    "Anthropic",
+    "xAI",
+    "Arm",
+    "Synopsys",
+    "Cadence",
+    "Huawei",
+    "SMIC",
+    "华为",
+    "中芯国际",
+    "华虹",
+    "长江存储",
+    "长鑫存储",
+    "寒武纪",
+    "海光信息",
+    "卓胜微",
+    "唯捷创芯",
+    "慧智微",
+    "昂瑞微"
+  ],
+  "authorityDomains": [
+    "nvidia.com",
+    "amd.com",
+    "intel.com",
+    "tsmc.com",
+    "asml.com",
+    "samsung.com",
+    "qualcomm.com",
+    "broadcom.com",
+    "openai.com",
+    "anthropic.com",
+    "microsoft.com",
+    "googleblog.com",
+    "sec.gov",
+    "reuters.com",
+    "bloomberg.com",
+    "wsj.com",
+    "ft.com",
+    "nikkei.com",
+    "semiengineering.com",
+    "eetimes.com",
+    "microwavejournal.com",
+    "thelec.net",
+    "digitimes.com",
+    "yicai.com",
+    "caixin.com",
+    "stcn.com",
+    "cnstock.com",
+    "sse.com.cn",
+    "szse.cn",
+    "hkexnews.hk"
+  ],
+  "gdeltQueries": [
+    {
+      "topic": "ai",
+      "region": "global",
+      "query": "(\"generative AI\" OR \"artificial intelligence\" OR \"AI chip\" OR \"data center\" OR \"large language model\")"
+    },
+    {
+      "topic": "semiconductor",
+      "region": "global",
+      "query": "(semiconductor OR foundry OR lithography OR \"advanced packaging\" OR HBM OR \"memory chip\")"
+    },
+    {
+      "topic": "rf",
+      "region": "global",
+      "query": "(\"RF front-end\" OR \"radio frequency chip\" OR \"power amplifier\" OR \"BAW filter\" OR \"SAW filter\" OR GaN OR mmWave)"
+    },
+    {
+      "topic": "ai",
+      "region": "china",
+      "query": "(China OR Chinese OR Huawei OR Alibaba OR Tencent OR Baidu OR DeepSeek) (\"artificial intelligence\" OR \"large language model\" OR \"AI chip\" OR \"data center\")"
+    },
+    {
+      "topic": "semiconductor",
+      "region": "china",
+      "query": "(China OR Chinese OR SMIC OR \"Hua Hong\" OR Huawei OR CXMT OR YMTC) (semiconductor OR chip OR foundry OR wafer OR lithography)"
+    },
+    {
+      "topic": "rf",
+      "region": "china",
+      "query": "(China OR Chinese OR Maxscend OR Vanchip OR \"Smarter Micro\" OR Lansus) (RF OR \"radio frequency\" OR \"RF front-end\" OR filter OR \"power amplifier\" OR GaN)"
+    }
+  ],
+  "rssFeeds": [
+    {
+      "name": "Semiconductor Engineering",
+      "url": "https://semiengineering.com/feed/",
+      "region": "global",
+      "topics": ["semiconductor", "ai", "rf"]
+    },
+    {
+      "name": "EE Times",
+      "url": "https://www.eetimes.com/feed/",
+      "region": "global",
+      "topics": ["semiconductor", "ai", "rf"]
+    },
+    {
+      "name": "Microwave Journal",
+      "url": "https://www.microwavejournal.com/rss/articles",
+      "region": "global",
+      "topics": ["rf"]
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "region": "global",
+      "topics": ["ai"]
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "region": "global",
+      "topics": ["ai"]
+    },
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "region": "china",
+      "topics": ["ai", "semiconductor", "rf"]
+    },
+    {
+      "name": "机器之心",
+      "url": "https://www.jiqizhixin.com/rss",
+      "region": "china",
+      "topics": ["ai"]
+    },
+    {
+      "name": "36氪",
+      "url": "https://36kr.com/feed",
+      "region": "china",
+      "topics": ["ai", "semiconductor"]
+    }
+  ]
+}

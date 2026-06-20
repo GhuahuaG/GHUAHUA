@@ -1,0 +1,2192 @@
+{
+  "date": "2026-06-20",
+  "displayDate": "2026年6月20日",
+  "timeZone": "Asia/Shanghai",
+  "generatedAt": "2026-06-20T05:58:15.351Z",
+  "siteUrl": "",
+  "stats": {
+    "selected": 21,
+    "candidates": 21,
+    "errors": [
+      "GDELT global/ai: 429 Too Many Requests",
+      "GDELT china/ai: 429 Too Many Requests"
+    ]
+  },
+  "topics": {
+    "ai": {
+      "label": "AI产业",
+      "keywords": [
+        "AI",
+        "artificial intelligence",
+        "generative AI",
+        "large language model",
+        "LLM",
+        "foundation model",
+        "AI agent",
+        "AI chip",
+        "GPU",
+        "accelerator",
+        "data center",
+        "算力",
+        "人工智能",
+        "大模型",
+        "智能体",
+        "生成式AI",
+        "模型",
+        "数据中心"
+      ]
+    },
+    "semiconductor": {
+      "label": "半导体产业",
+      "keywords": [
+        "semiconductor",
+        "chip",
+        "foundry",
+        "wafer",
+        "fab",
+        "lithography",
+        "advanced packaging",
+        "HBM",
+        "memory",
+        "EDA",
+        "2nm",
+        "3nm",
+        "7nm",
+        "TSMC",
+        "ASML",
+        "Samsung",
+        "Intel",
+        "Micron",
+        "SK hynix",
+        "半导体",
+        "芯片",
+        "晶圆",
+        "晶圆厂",
+        "先进封装",
+        "光刻",
+        "存储",
+        "中芯国际",
+        "华虹"
+      ]
+    },
+    "rf": {
+      "label": "射频芯片产业",
+      "keywords": [
+        "RF",
+        "radio frequency",
+        "RF front-end",
+        "RFFE",
+        "power amplifier",
+        "PA module",
+        "filter",
+        "SAW",
+        "BAW",
+        "GaN",
+        "SiGe",
+        "mmWave",
+        "5G",
+        "6G",
+        "Qualcomm",
+        "Qorvo",
+        "Skyworks",
+        "Broadcom",
+        "Murata",
+        "射频",
+        "射频前端",
+        "功率放大器",
+        "滤波器",
+        "毫米波",
+        "氮化镓",
+        "卓胜微",
+        "唯捷创芯",
+        "昂瑞微",
+        "慧智微"
+      ]
+    }
+  },
+  "todayHighlights": [
+    {
+      "id": "ne425da48",
+      "title": "Chip Industry Week In Review",
+      "source": "Semiconductor Engineering",
+      "reason": "来自订阅源，来源可追踪",
+      "score": 68
+    },
+    {
+      "id": "nc2d0a355",
+      "title": "Anthropic 恰乌里称有信心“未来几天”重新开放 Mythos 及 Fable 5 AI 模型",
+      "source": "IT之家",
+      "reason": "来自订阅源，来源可追踪",
+      "score": 55
+    },
+    {
+      "id": "nabfa1a78",
+      "title": "受内存价格持续飙升影响，Nothing 宣布今年停更 CMF 系列手机",
+      "source": "IT之家",
+      "reason": "来自订阅源，来源可追踪",
+      "score": 48
+    },
+    {
+      "id": "n8494750",
+      "title": "游戏发行巨头 Embracer：因业界内存涨价潮，索尼 PS6 预计将延期至 2028-2029 年上市",
+      "source": "IT之家",
+      "reason": "来自订阅源，来源可追踪",
+      "score": 48
+    },
+    {
+      "id": "n9a36829b",
+      "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
+      "source": "IT之家",
+      "reason": "来自订阅源，来源可追踪",
+      "score": 40
+    },
+    {
+      "id": "n2579a421",
+      "title": "Billions Pour into Autonomous Defense as AI Redefines Warfare",
+      "source": "EE Times",
+      "reason": "来自订阅源，来源可追踪",
+      "score": 39
+    },
+    {
+      "id": "nddd6e5",
+      "title": "All Semiconductor Roads Lead to Taiwan",
+      "source": "EE Times",
+      "reason": "来自订阅源，来源可追踪",
+      "score": 39
+    },
+    {
+      "id": "n3f83c1d3",
+      "title": "The US says ASML’s top chip tool may be in China, but how?",
+      "source": "TechCrunch AI",
+      "reason": "来自订阅源，来源可追踪",
+      "score": 39
+    }
+  ],
+  "recommendedReads": [
+    {
+      "id": "ne425da48",
+      "title": "Chip Industry Week In Review",
+      "source": "Semiconductor Engineering",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-143/",
+      "score": 68,
+      "recommendation": "建议完整阅读",
+      "reason": "这条新闻可能影响短期产业预期，来自订阅源，来源可追踪。"
+    },
+    {
+      "id": "nc2d0a355",
+      "title": "Anthropic 恰乌里称有信心“未来几天”重新开放 Mythos 及 Fable 5 AI 模型",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/466.htm",
+      "score": 55,
+      "recommendation": "建议完整阅读",
+      "reason": "适合快速扫读，确认是否与关注公司或细分赛道相关。"
+    }
+  ],
+  "sections": {
+    "global": {
+      "label": "全球新闻",
+      "topics": {
+        "ai": {
+          "label": "AI产业",
+          "articles": [
+            {
+              "id": "nc2d0a355",
+              "title": "Anthropic 恰乌里称有信心“未来几天”重新开放 Mythos 及 Fable 5 AI 模型",
+              "url": "https://www.ithome.com/0/966/466.htm",
+              "source": "IT之家",
+              "domain": "ithome.com",
+              "publishedAt": "2026-06-20T00:48:39.000Z",
+              "snippet": "IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示， 公司有信心“未来几天内”向美国之外地区重新开放 Claude Mythos 以及 Claude Fable 5 模型。 IT之家此前报道，由于美国白宫安全指令，Anthropic 临时封锁了其前沿模型 Mythos 和 Fable 5 的访问权限。恰乌里在首尔新闻发布会上表示，有信心在“未来几天内”重新开放。 恰乌里表示 Anthropic 将深化对韩投资，已开始组建团队，涵盖商业、技术、政策和运营人员，并计划在未来数月快速扩展。韩国在 Anthropic 全球使用量中排名第 12 位，被视作增长最快市场之一。 Project Glasswing 是 Anthropoic 为应对 Mythos 潜在风险而启动的网络安全倡议，仅向特定...",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "Anthropic 恰乌里称有信心“未来几天”重新开放 Mythos 及 Fable 5 AI 模型",
+                "link": "https://www.ithome.com/0/966/466.htm",
+                "pubDate": "Sat, 20 Jun 2026 00:48:39 GMT",
+                "published": "",
+                "updated": "",
+                "description": "<p data-vmark=\"0ae6\">IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示，<strong>公司有信心“未来几天内”向美国之外地区重新开放 Claude Mythos 以及 Claude Fable 5 模型。</strong></p><p data-vmark=\"14f9\">IT之家此前报道，由于美国白宫安全指令，Anthropic 临时封锁了其前沿模型 Mythos 和 Fable 5 的访问权限。恰乌里在首尔新闻发布会上表示，有信心在“未来几天内”重新开放。</p><p data-vmark=\"35c0\">恰乌里表示 Anthropic 将深化对韩投资，已开始组建团队，涵盖商业、技术、政策和运营人员，并计划在未来数月快速扩展。韩国在 Anthropic 全球使用量中排名第 12 位，被视作增长最快市场之一。</p><p data-vmark=\"ec18\">Project Glasswing 是 Anthropoic 为应对 Mythos 潜在风险而启动的网络安全倡议，仅向特定实体开放该模型。目前该计划约有 150 个合作伙伴，包括谷歌、英伟达、微软、苹果、三星电子、SK 海力士和 SK Telecom。</p><p data-vmark=\"1cfc\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"5bb1\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/963/772.htm\">因美国政府政策限制，Anthropic 暂停供应 Mythos 5/Fable 5 模型</a>》</p></li><li><p data-vmark=\"0bb8\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/962/152.htm\">最强 Claude 模型：Anthropic 推出 Fable 5/Mythos 5，书写 AI 神话</a>》</p></li></ul>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "IT之家"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 55,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及关键公司：Anthropic",
+                "涉及政策/监管/出口管制变量：政策",
+                "涉及融资、并购或资本开支：投资",
+                "涉及技术发布、量产或路线图：发布"
+              ],
+              "recommendation": "建议完整阅读",
+              "keyFacts": [
+                "来源：IT之家",
+                "时间：06/20 08:48",
+                "主题：AI产业",
+                "IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示， 公司有信心“未来几天内”向美国之外地区重..."
+              ],
+              "summary": "IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示， 公司有信心“未来几天内”向美国之外地区重新开放 Claude Mythos 以及 Claude Fable 5 模型。 IT之家此前报道，由于美国白宫安全指令，Anthropic 临时封锁了其前沿模型 Mythos 和 Fable 5 的访问权限。恰乌里在首尔新闻发布会上表示，有信心在“未来几天内”重新开放。 恰乌里表...",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "nabfa1a78",
+              "title": "受内存价格持续飙升影响，Nothing 宣布今年停更 CMF 系列手机",
+              "url": "https://www.ithome.com/0/966/450.htm",
+              "source": "IT之家",
+              "domain": "ithome.com",
+              "publishedAt": "2026-06-19T23:07:57.000Z",
+              "snippet": "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。 IT之家注意到，Nothing CEO 裴宇上周 也发文透露 ，公司旗下中端机 Nothing Phone (4a) 的成本正在迅速上涨。他透露，在产品立项到正式上市期间，内存成本翻了一倍；而上市之后到现在，价格又再次翻倍。目前“内存已经成为智能手机里最贵的零部件”。 业内普遍认为，这一轮内存涨价主要与 AI 服务器需求暴涨有关。随着英伟达等厂商大量采购高带宽内存（HBM）和 DRAM，整体存储供应链变得更加紧张，连带消费电子市场也受到挤压。对于在海外主打“性价比定价”的 CMF 来说，这种冲击尤其明显，一旦核心元件成本暴涨，很难通过...",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "受内存价格持续飙升影响，Nothing 宣布今年停更 CMF 系列手机",
+                "link": "https://www.ithome.com/0/966/450.htm",
+                "pubDate": "Fri, 19 Jun 2026 23:07:57 GMT",
+                "published": "",
+                "updated": "",
+                "description": "<p data-vmark=\"e714\">IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。</p><p style=\"text-align: center;\" data-vmark=\"258c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/a6f85aed-cf42-411c-93f8-df0144a8ddf7.jpg?x-bce-process=image/format,f_auto\" w=\"954\" h=\"1148\" data-weibo=\"0\" data-mpos=\"2,2\"  data-vmark=\"89a3\" class=\"no-alt-img\"></p><p data-vmark=\"3d9c\">IT之家注意到，Nothing CEO 裴宇上周<a href=\"https://www.ithome.com/0/964/082.htm\" target=\"_blank\">也发文透露</a>，公司旗下中端机 Nothing Phone (4a) 的成本正在迅速上涨。他透露，在产品立项到正式上市期间，内存成本翻了一倍；而上市之后到现在，价格又再次翻倍。目前“内存已经成为智能手机里最贵的零部件”。</p><p data-vmark=\"1661\">业内普遍认为，这一轮内存涨价主要与 AI 服务器需求暴涨有关。随着英伟达等厂商大量采购高带宽内存（HBM）和 DRAM，整体存储供应链变得更加紧张，连带消费电子市场也受到挤压。对于在海外主打“性价比定价”的 CMF 来说，这种冲击尤其明显，一旦核心元件成本暴涨，很难通过涨价完全转嫁给消费者。</p><p data-vmark=\"a6e0\">不过，Akis Evangelidis 也强调，虽然今年不会有新的 CMF 手机，但 CMF 仍有多个新品正在准备中，甚至还会进入一些“全新品类”，同时他还暗示公司主品牌 Nothing 仍然会推出新款手机。</p><p style=\"text-align: center;\" data-vmark=\"1e25\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/411bd5e9-502b-4303-8f04-8b5a220f9a48.png?x-bce-process=image/format,f_auto\" w=\"600\" h=\"600\" data-weibo=\"1\" data-vmark=\"1663\" class=\"no-alt-img\"></p><figcaption>▲ CMF Phone 2 Pro</figcaption>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "IT之家"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 48,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及融资、并购或资本开支：上市",
+                "涉及财报、订单、产能或供应链：供应链",
+                "涉及技术发布、量产或路线图：发布",
+                "发布时间较新"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：IT之家",
+                "时间：06/20 07:07",
+                "主题：AI产业",
+                "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代..."
+              ],
+              "summary": "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。 IT之家注意到，Nothing CEO 裴宇上周 也发文透露 ，公司旗下中端机 Nothing Phone (4a) 的成本正在迅速上涨。他透露，在产品立项到正式上市期间，内存成本翻了一倍；而上市之后到现在，价格又再次翻...",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n9a36829b",
+              "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
+              "url": "https://www.ithome.com/0/966/482.htm",
+              "source": "IT之家",
+              "domain": "ithome.com",
+              "publishedAt": "2026-06-20T03:05:48.000Z",
+              "snippet": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本， 通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。 IT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。 ACE 全称为 AI Compute Extensions，是一组专为加速人工智能与机器学习负载设计的 x86 指令集，其核心目标是优化矩阵乘法运算（深度学习中最频繁的计算操作）和低精度数据格式处理。 在长期愿景方面，此前 AVX-512 指令集因各厂商不同实现导致软件生态碎片化，ACE 从设计之初就要求 AMD 与英特尔共同承诺支持，且未来产品更迭不会轻易废弃。 技术细节方面，ACE 在现有 AVX...",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
+                "link": "https://www.ithome.com/0/966/482.htm",
+                "pubDate": "Sat, 20 Jun 2026 03:05:48 GMT",
+                "published": "",
+                "updated": "",
+                "description": "<p data-vmark=\"a950\">IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本，<strong>通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。</strong></p><p data-vmark=\"c783\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/4246978b-8906-424c-82b9-c574c4a57822.png?x-bce-process=image/format,f_auto\" w=\"898\" h=\"1660\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FInstLatX64%2Fstatus%2F2067930113295942075%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FInstLatX64%2Fstatus%2F2067930113295942075%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"4c17\" class=\"no-alt-img\"></p><p data-vmark=\"74ca\">IT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。</p><p data-vmark=\"55ea\">ACE 全称为 AI Compute Extensions，是一组专为加速人工智能与机器学习负载设计的 x86 指令集，其核心目标是优化矩阵乘法运算（深度学习中最频繁的计算操作）和低精度数据格式处理。</p><p data-vmark=\"5772\">在长期愿景方面，此前 AVX-512 指令集因各厂商不同实现导致软件生态碎片化，ACE 从设计之初就要求 AMD 与英特尔共同承诺支持，且未来产品更迭不会轻易废弃。</p><p data-vmark=\"667c\">技术细节方面，ACE 在现有 AVX 向量指令基础上，新增了“图块寄存器”（tile register）状态，并定义了数据移动与处理操作。ACE 还纳入 AVX10 框架下的专用格式转换指令，进一步完善低精度数据支持。</p><p data-vmark=\"ff8e\">在部署路线图上，AMD 明确 Zen 6 将引入“新 AI 数据类型支持”与“更多 AI 管线”，Zen 7 则直接配备“新矩阵引擎”与“AI 数据格式扩展”。</p><p data-vmark=\"ed4c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/1316257b-3d7f-4ba8-a63e-091ca8359f4d.jpg?x-bce-process=image/format,f_auto\" w=\"596\" h=\"335\" data-weibo=\"1\" data-vmark=\"7f70\" class=\"no-alt-img\"></p><p data-vmark=\"8e15\">在数据支持范围上，ACE 支持 INT8、INT32、FP32、BF16、FP16、E8M0、FP8，以及 MX 联盟定义的 MX FP8（SE5M2/SE4M3）、MX FP6（SE3M2/SE2M3）、MX FP4（SE2M1）和 MX INT8 等。</p><p data-vmark=\"6a93\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"a9a4\"><a href=\"https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/\" target=\"_blank\">AI Compute Extensions (ACE) Specification</a></p></li></ul>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "IT之家"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 40,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及关键公司：AMD",
+                "涉及技术发布、量产或路线图：性能、发布",
+                "发布时间较新"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：IT之家",
+                "时间：06/20 11:05",
+                "主题：AI产业",
+                "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本， 通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能..."
+              ],
+              "summary": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本， 通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。 IT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。 ACE 全称为 AI Compute Extensions，是一组专为加速人工智能与...",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n2579a421",
+              "title": "Billions Pour into Autonomous Defense as AI Redefines Warfare",
+              "url": "https://www.eetimes.com/billions-pour-into-autonomous-defense-as-ai-redefines-warfare/",
+              "source": "EE Times",
+              "domain": "eetimes.com",
+              "publishedAt": "2026-06-18T19:09:37.000Z",
+              "snippet": "Record investment is accelerating autonomous military tech, putting edge AI and drones at the center of modern conflict. The post Billions Pour into Autonomous Defense as AI Redefines Warfare appeared first on EE Times . ]]>",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "Billions Pour into Autonomous Defense as AI Redefines Warfare",
+                "link": "https://www.eetimes.com/billions-pour-into-autonomous-defense-as-ai-redefines-warfare/",
+                "pubDate": "Thu, 18 Jun 2026 19:09:37 +0000",
+                "published": "",
+                "updated": "",
+                "description": "<![CDATA[<p>Record investment is accelerating autonomous military tech, putting edge AI and drones at the center of modern conflict.</p>\n<p>The post <a href=\"https://www.eetimes.com/billions-pour-into-autonomous-defense-as-ai-redefines-warfare/\">Billions Pour into Autonomous Defense as AI Redefines Warfare</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>\n]]>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "EE Times"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 39,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "权威或产业核心来源",
+                "涉及融资、并购或资本开支：investment"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：EE Times",
+                "时间：06/19 03:09",
+                "主题：AI产业",
+                "Record investment is accelerating autonomous military tech, putting edge AI and drones at the center of modern conflict..."
+              ],
+              "summary": "Record investment is accelerating autonomous military tech, putting edge AI and drones at the center of modern conflict. The post Billions Pour into Autonomous Defense as AI Redefines Warfare appeared first on EE Times . ]]>",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n510bcbb9",
+              "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+              "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+              "source": "TechCrunch AI",
+              "domain": "techcrunch.com",
+              "publishedAt": "2026-06-19T16:08:17.000Z",
+              "snippet": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+                "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+                "pubDate": "Fri, 19 Jun 2026 16:08:17 +0000",
+                "published": "",
+                "updated": "",
+                "description": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "TechCrunch AI"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 39,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及关键公司：Amazon、Anthropic",
+                "涉及政策/监管/出口管制变量：ban"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：TechCrunch AI",
+                "时间：06/20 00:08",
+                "主题：AI产业",
+                "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, c..."
+              ],
+              "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers ha...",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "nb1f259b5",
+              "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+              "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+              "source": "TechCrunch AI",
+              "domain": "techcrunch.com",
+              "publishedAt": "2026-06-18T19:59:22.000Z",
+              "snippet": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+                "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+                "pubDate": "Thu, 18 Jun 2026 19:59:22 +0000",
+                "published": "",
+                "updated": "",
+                "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "TechCrunch AI"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 39,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及关键公司：Google、OpenAI",
+                "涉及融资、并购或资本开支：IPO"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：TechCrunch AI",
+                "时间：06/19 03:59",
+                "主题：AI产业",
+                "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump..."
+              ],
+              "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "nae994fe",
+              "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+              "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+              "source": "TechCrunch AI",
+              "domain": "techcrunch.com",
+              "publishedAt": "2026-06-19T22:40:14.000Z",
+              "snippet": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+                "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+                "pubDate": "Fri, 19 Jun 2026 22:40:14 +0000",
+                "published": "",
+                "updated": "",
+                "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "TechCrunch AI"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 37,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及关键公司：Anthropic",
+                "涉及政策/监管/出口管制变量：export control",
+                "发布时间较新"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：TechCrunch AI",
+                "时间：06/20 06:40",
+                "主题：AI产业",
+                "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear w..."
+              ],
+              "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n584452b6",
+              "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+              "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+              "source": "TechCrunch AI",
+              "domain": "techcrunch.com",
+              "publishedAt": "2026-06-18T16:55:04.000Z",
+              "snippet": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+                "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+                "pubDate": "Thu, 18 Jun 2026 16:55:04 +0000",
+                "published": "",
+                "updated": "",
+                "description": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "TechCrunch AI"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 34,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及融资、并购或资本开支：spending",
+                "涉及技术发布、量产或路线图：launch"
+              ],
+              "recommendation": "备查",
+              "keyFacts": [
+                "来源：TechCrunch AI",
+                "时间：06/19 00:55",
+                "主题：AI产业",
+                "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, rela..."
+              ],
+              "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n3048aabc",
+              "title": "理想 i6 第 15 万辆量产车正式下线",
+              "url": "https://www.ithome.com/0/966/498.htm",
+              "source": "IT之家",
+              "domain": "ithome.com",
+              "publishedAt": "2026-06-20T05:02:16.000Z",
+              "snippet": "IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博， 宣布理想 i6 第 15 万台量产车下线。 延伸阅读 理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 24.98 万元。 该车拥有 3 米长轴距，配备前排 16.8 英寸 HUD、3K 双联屏以及后排 21.4 英寸 3K 大屏，并内置了理想同学 MindGPT 大模型。 在动力和续航方面，理想 i6 搭载全新 5C 磷酸铁锂电池，支持 5C 超级充电与放电，最大峰值功率超过 500kW，CLTC 工况标准续航为 720 公里。 根据理想汽车官方数据，理想 i6 在 2026 年 4 月 10 日达成第 10 万辆量产车下线，用时不到 7 个月。 此后，该车在 2026 年 6 月 10 日达成了第 14 万辆量产车下线，并已连续三个月交付量突破 2 万辆，位居纯电 SUV 销量前三。",
+              "image": "",
+              "topic": "ai",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "理想 i6 第 15 万辆量产车正式下线",
+                "link": "https://www.ithome.com/0/966/498.htm",
+                "pubDate": "Sat, 20 Jun 2026 05:02:16 GMT",
+                "published": "",
+                "updated": "",
+                "description": "<p data-vmark=\"2b3c\">IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博，<strong>宣布理想 i6 第 15 万台量产车下线。</strong></p><p data-vmark=\"2862\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/a111e3a3-fd6e-49fc-92e6-d6abe56c3180.png\" w=\"894\" h=\"1545\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6001272153%2FR4XzEFyRy%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"50d8\" class=\"no-alt-img\"></p><blockquote class=\"ai-point\" data-ai-task=\"bd8d7a85-d8f1-4687-82fd-88f3d4a9a710\" data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-refs=\"JTVCJTVE\"><h3 data-vmark=\"2655\">延伸阅读</h3><p data-vmark=\"3bf7\"><span data-ref-ids=\"931009,937713,962686\" data-ref-urls=\"\">理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 24.98 万元。</span></p><p data-vmark=\"1753\"><span data-ref-ids=\"931009,937713,962686\" data-ref-urls=\"\">该车拥有 3 米长轴距，配备前排 16.8 英寸 HUD、3K 双联屏以及后排 21.4 英寸 3K 大屏，并内置了理想同学 MindGPT 大模型。</span></p><p data-vmark=\"9c4e\"><span data-ref-ids=\"931009,937713,962686\" data-ref-urls=\"\">在动力和续航方面，理想 i6 搭载全新 5C 磷酸铁锂电池，支持 5C 超级充电与放电，最大峰值功率超过 500kW，CLTC 工况标准续航为 720 公里。</span></p><p data-vmark=\"891a\"><span data-ref-ids=\"937713\" data-ref-urls=\"\">根据理想汽车官方数据，理想 i6 在 2026 年 4 月 10 日达成第 10 万辆量产车下线，用时不到 7 个月。</span><span data-ref-ids=\"962686\" data-ref-urls=\"\">此后，该车在 2026 年 6 月 10 日达成了第 14 万辆量产车下线，并已连续三个月交付量突破 2 万辆，位居纯电 SUV 销量前三。</span></p></blockquote>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "IT之家"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "全球新闻",
+              "score": 34,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及技术发布、量产或路线图：量产、发布、突破",
+                "发布时间较新"
+              ],
+              "recommendation": "备查",
+              "keyFacts": [
+                "来源：IT之家",
+                "时间：06/20 13:02",
+                "主题：AI产业",
+                "IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博， 宣布理想 i6 第 15 万台量产车下线。 延伸阅读 理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 ..."
+              ],
+              "summary": "IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博， 宣布理想 i6 第 15 万台量产车下线。 延伸阅读 理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 24.98 万元。 该车拥有 3 米长轴距，配备前排 16.8 英寸 HUD、3K 双联屏以及后排 21.4 英寸 3K 大屏，并内置了理想同学 MindGPT 大模型。 在动力和续航方面，理想 i6 搭载全新 5C 磷酸铁锂电池，支持 5C 超级充电与放电，最大峰值功率超过 5...",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            }
+          ]
+        },
+        "semiconductor": {
+          "label": "半导体产业",
+          "articles": [
+            {
+              "id": "ne425da48",
+              "title": "Chip Industry Week In Review",
+              "url": "https://semiengineering.com/chip-industry-week-in-review-143/",
+              "source": "Semiconductor Engineering",
+              "domain": "semiengineering.com",
+              "publishedAt": "2026-06-19T07:01:41.000Z",
+              "snippet": "Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive RoT; Brewer's buy; VLSI Symposium tech; CHIPS Act funding; MIT sensor; RISC-V CPU fuzzing. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
+              "image": "",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "Chip Industry Week In Review",
+                "link": "https://semiengineering.com/chip-industry-week-in-review-143/",
+                "pubDate": "Fri, 19 Jun 2026 07:01:41 +0000",
+                "published": "",
+                "updated": "",
+                "description": "<p>Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive RoT; Brewer's buy; VLSI Symposium tech; CHIPS Act funding; MIT sensor; RISC-V CPU fuzzing.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-week-in-review-143/\">Chip Industry Week In Review</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "Semiconductor Engineering"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 68,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "权威或产业核心来源",
+                "涉及关键公司：Intel、Apple、Amazon",
+                "涉及政策/监管/出口管制变量：CHIPS Act",
+                "涉及融资、并购或资本开支：funding"
+              ],
+              "recommendation": "建议完整阅读",
+              "keyFacts": [
+                "来源：Semiconductor Engineering",
+                "时间：06/19 15:01",
+                "主题：半导体产业",
+                "Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive RoT; Brewe..."
+              ],
+              "summary": "Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive RoT; Brewer's buy; VLSI Symposium tech; CHIPS Act funding; MIT sensor; RISC-V CPU fuzzing. The post Chip Industry Week In Review appeared first on Sem...",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "这条新闻可能影响短期产业预期，来自订阅源，来源可追踪。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n8494750",
+              "title": "游戏发行巨头 Embracer：因业界内存涨价潮，索尼 PS6 预计将延期至 2028-2029 年上市",
+              "url": "https://www.ithome.com/0/966/465.htm",
+              "source": "IT之家",
+              "domain": "ithome.com",
+              "publishedAt": "2026-06-20T00:47:43.000Z",
+              "snippet": "IT之家 6 月 20 日消息，游戏发行巨头 Embracer 在最新年度报告中透露，受芯片、存储器以及相关硬件成本持续上涨影响，索尼 SIE 正在重新评估 PS6 的上市计划，预计该机上市时间将从 2027 年（明年）延期至 2028-2029 年。 IT之家注意到，此前彭博社也透露类似的观点，同样认为索尼 PS6 游戏机将延期至 2028-2029 年发布。不过索尼 SIE 则是在今年 5 月财报问答环节中透露公司还没有正式决定 PS6 的发布时间和定价。 虽然索尼 SIE 目前尚未对相关传闻作出回应，但业内人士普遍认为，PS6 的研发工作已经进入关键阶段。不过在硬件成本持续上涨的背景下，索尼或许担心新主机首发价格过高，从而影响市场接受度和产品销量。",
+              "image": "",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "游戏发行巨头 Embracer：因业界内存涨价潮，索尼 PS6 预计将延期至 2028-2029 年上市",
+                "link": "https://www.ithome.com/0/966/465.htm",
+                "pubDate": "Sat, 20 Jun 2026 00:47:43 GMT",
+                "published": "",
+                "updated": "",
+                "description": "<p data-vmark=\"ddfb\">IT之家 6 月 20 日消息，游戏发行巨头 Embracer 在最新年度报告中透露，受芯片、存储器以及相关硬件成本持续上涨影响，索尼 SIE 正在重新评估 PS6 的上市计划，预计该机上市时间将从 2027 年（明年）延期至 2028-2029 年。</p><p style=\"text-align: center;\" data-vmark=\"b525\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/363da539-29cc-42e6-bad6-e139de56c594.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"808\" data-weibo=\"0\" data-vmark=\"fc98\" class=\"no-alt-img\"></p><p data-vmark=\"d560\">IT之家注意到，此前彭博社也透露类似的观点，同样认为索尼 PS6 游戏机将延期至 2028-2029 年发布。不过索尼 SIE 则是在今年 5 月财报问答环节中透露公司还没有正式决定 PS6 的发布时间和定价。</p><p data-vmark=\"d6ac\">虽然索尼 SIE 目前尚未对相关传闻作出回应，但业内人士普遍认为，PS6 的研发工作已经进入关键阶段。不过在硬件成本持续上涨的背景下，索尼或许担心新主机首发价格过高，从而影响市场接受度和产品销量。</p>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "IT之家"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 48,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及融资、并购或资本开支：上市",
+                "涉及财报、订单、产能或供应链：财报",
+                "涉及技术发布、量产或路线图：发布",
+                "发布时间较新"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：IT之家",
+                "时间：06/20 08:47",
+                "主题：半导体产业",
+                "IT之家 6 月 20 日消息，游戏发行巨头 Embracer 在最新年度报告中透露，受芯片、存储器以及相关硬件成本持续上涨影响，索尼 SIE 正在重新评估 PS6 的上市计划，预计该机上市时间将从 2027 年（明年）延期至 2028-..."
+              ],
+              "summary": "IT之家 6 月 20 日消息，游戏发行巨头 Embracer 在最新年度报告中透露，受芯片、存储器以及相关硬件成本持续上涨影响，索尼 SIE 正在重新评估 PS6 的上市计划，预计该机上市时间将从 2027 年（明年）延期至 2028-2029 年。 IT之家注意到，此前彭博社也透露类似的观点，同样认为索尼 PS6 游戏机将延期至 2028-2029 年发布。不过索尼 SIE 则是在今年 5 月财报问答环节中透露公司还没有正式决定 PS6 的发布时间和定价。 虽然索尼 SIE 目前尚未对相关传闻作出回应，但业内...",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "nddd6e5",
+              "title": "All Semiconductor Roads Lead to Taiwan",
+              "url": "https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/",
+              "source": "EE Times",
+              "domain": "eetimes.com",
+              "publishedAt": "2026-06-19T07:45:00.000Z",
+              "snippet": "Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain. The post All Semiconductor Roads Lead to Taiwan appeared first on EE Times . ]]>",
+              "image": "",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "All Semiconductor Roads Lead to Taiwan",
+                "link": "https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/",
+                "pubDate": "Fri, 19 Jun 2026 07:45:00 +0000",
+                "published": "",
+                "updated": "",
+                "description": "<![CDATA[<p>Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain.</p>\n<p>The post <a href=\"https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/\">All Semiconductor Roads Lead to Taiwan</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>\n]]>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "EE Times"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 39,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "权威或产业核心来源",
+                "涉及财报、订单、产能或供应链：supply chain"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：EE Times",
+                "时间：06/19 15:45",
+                "主题：半导体产业",
+                "Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain. The pos..."
+              ],
+              "summary": "Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain. The post All Semiconductor Roads Lead to Taiwan appeared first on EE Times . ]]>",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n2e84dc9e",
+              "title": "Analyst Warns Intel Valuation Doesnt Make Sense . Suggests NVIDIA , AMD , Micron , and Broadcom as Alternatives .",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-warns-intel-valuation-doesn-173648448.html",
+              "source": "finance.yahoo.com",
+              "domain": "finance.yahoo.com",
+              "publishedAt": "2026-06-19T18:15:00.000Z",
+              "snippet": "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe",
+              "image": "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "gdelt",
+              "language": "English",
+              "raw": {
+                "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-warns-intel-valuation-doesn-173648448.html",
+                "url_mobile": "",
+                "title": "Analyst Warns Intel Valuation  Doesnt Make Sense . Suggests NVIDIA , AMD , Micron , and Broadcom as Alternatives . ",
+                "seendate": "20260619T181500Z",
+                "socialimage": "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe",
+                "domain": "finance.yahoo.com",
+                "language": "English",
+                "sourcecountry": "United States"
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "finance.yahoo.com"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 37,
+              "scoreReasons": [
+                "涉及关键公司：NVIDIA、AMD、Intel、Micron",
+                "发布时间较新"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：finance.yahoo.com",
+                "时间：06/20 02:15",
+                "主题：半导体产业",
+                "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs..."
+              ],
+              "summary": "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+            },
+            {
+              "id": "n1cf63231",
+              "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ...",
+              "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
+              "source": "morningstar.com",
+              "domain": "morningstar.com",
+              "publishedAt": "2026-06-20T04:30:00.000Z",
+              "snippet": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+              "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "gdelt",
+              "language": "English",
+              "raw": {
+                "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
+                "url_mobile": "",
+                "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ... ",
+                "seendate": "20260620T043000Z",
+                "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+                "domain": "morningstar.com",
+                "language": "English",
+                "sourcecountry": "China"
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "morningstar.com"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 37,
+              "scoreReasons": [
+                "涉及关键公司：Intel、SK hynix、Micron",
+                "发布时间较新"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：morningstar.com",
+                "时间：06/20 12:30",
+                "主题：半导体产业",
+                "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-o..."
+              ],
+              "summary": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+            },
+            {
+              "id": "n7b774166",
+              "title": "Amazon’s Newest Gambit: Selling AI Chips",
+              "url": "https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/",
+              "source": "EE Times",
+              "domain": "eetimes.com",
+              "publishedAt": "2026-06-19T12:19:36.000Z",
+              "snippet": "The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale. The post Amazon’s Newest Gambit: Selling AI Chips appeared first on EE Times . ]]>",
+              "image": "",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "Amazon’s Newest Gambit: Selling AI Chips",
+                "link": "https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/",
+                "pubDate": "Fri, 19 Jun 2026 12:19:36 +0000",
+                "published": "",
+                "updated": "",
+                "description": "<![CDATA[<p>The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale.</p>\n<p>The post <a href=\"https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/\">Amazon’s Newest Gambit: Selling AI Chips</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>\n]]>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "EE Times"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 37,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "权威或产业核心来源",
+                "涉及关键公司：Amazon"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：EE Times",
+                "时间：06/19 20:19",
+                "主题：半导体产业",
+                "The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale. The post A..."
+              ],
+              "summary": "The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale. The post Amazon’s Newest Gambit: Selling AI Chips appeared first on EE Times . ]]>",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n5e3bb3e8",
+              "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
+              "url": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
+              "source": "EE Times",
+              "domain": "eetimes.com",
+              "publishedAt": "2026-06-19T22:00:00.000Z",
+              "snippet": "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Signal to Canadian Semiconductor Industry appeared first on EE Times . ]]>",
+              "image": "",
+              "topic": "semiconductor",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
+                "link": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
+                "pubDate": "Fri, 19 Jun 2026 22:00:00 +0000",
+                "published": "",
+                "updated": "",
+                "description": "<![CDATA[<p>Canada sharpens its defense and tech edge with policies to boost homegrown chip power.</p>\n<p>The post <a href=\"https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/\">Defense Sends Clear Signal to Canadian Semiconductor Industry</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>\n]]>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "EE Times"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "全球新闻",
+              "score": 35,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "权威或产业核心来源",
+                "发布时间较新"
+              ],
+              "recommendation": "备查",
+              "keyFacts": [
+                "来源：EE Times",
+                "时间：06/20 06:00",
+                "主题：半导体产业",
+                "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Sig..."
+              ],
+              "summary": "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Signal to Canadian Semiconductor Industry appeared first on EE Times . ]]>",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            }
+          ]
+        },
+        "rf": {
+          "label": "射频芯片产业",
+          "articles": [
+            {
+              "id": "nc5695976",
+              "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
+              "url": "https://www.ithome.com/0/966/467.htm",
+              "source": "IT之家",
+              "domain": "ithome.com",
+              "publishedAt": "2026-06-20T01:01:55.000Z",
+              "snippet": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其二是系统会将用户的垂直滑动操作方向识别为相反方向。 例如，用户向上滑动，界面却向下滚动。 在受影响机型方面，IT之家援引博文介绍，目前 Pixel 10 系列、Pixel 9 系列、Pixel 8 系列和 Pixel 7 系列手机用户均反馈存在上述问题。该媒体指出暂未看到有 Pixel 6 系列用户反馈。 二、5G 连接中断 根据用户反馈，升级安卓 17 后 5G 信号完全消失，导致连接中断，影响 Pixel 9 Pro、Pixel 9 Pro XL、Pixel 8 Pro、...",
+              "image": "",
+              "topic": "rf",
+              "region": "global",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
+                "link": "https://www.ithome.com/0/966/467.htm",
+                "pubDate": "Sat, 20 Jun 2026 01:01:55 GMT",
+                "published": "",
+                "updated": "",
+                "description": "<p data-vmark=\"57f2\">IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。</p><h2 data-vmark=\"114f\">一、触控异常</h2><p data-vmark=\"92ce\">根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其二是系统会将用户的垂直滑动操作方向识别为相反方向。<strong>例如，用户向上滑动，界面却向下滚动。</strong></p><p data-vmark=\"f6d5\">在受影响机型方面，IT之家援引博文介绍，目前 Pixel 10 系列、Pixel 9 系列、Pixel 8 系列和 Pixel 7 系列手机用户均反馈存在上述问题。该媒体指出暂未看到有 Pixel 6 系列用户反馈。</p><h2 data-vmark=\"e04f\">二、5G 连接中断</h2><p data-vmark=\"e480\">根据用户反馈，升级安卓 17 后 5G 信号完全消失，导致连接中断，影响 Pixel 9 Pro、Pixel 9 Pro XL、Pixel 8 Pro、Pixel 8a 以及 Pixel 6a 等机型。</p><p data-vmark=\"6527\">除 5G 断连外，部分用户在更新重启后发现 eSIM 不复存在，或者已保存的家庭 Wi-Fi 网络无法自动连接，只能手动输入密码。</p><p data-vmark=\"6695\">谷歌 Pixel 社区版主给出了临时解决方案，进入“设置 > 系统 > 重置选项 > 重置移动网络设置”。该操作会清除 Wi-Fi、蓝牙及移动网络配置，但不会删除个人数据，用户需重新连接 Wi-Fi 网络并配置 eSIM，实测可恢复 5G 信号。</p>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "IT之家"
+              ],
+              "topicLabel": "射频芯片产业",
+              "regionLabel": "全球新闻",
+              "score": 34,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及技术发布、量产或路线图：发布",
+                "射频赛道信息稀缺，值得保留",
+                "发布时间较新"
+              ],
+              "recommendation": "备查",
+              "keyFacts": [
+                "来源：IT之家",
+                "时间：06/20 09:01",
+                "主题：射频芯片产业",
+                "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Re..."
+              ],
+              "summary": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其二是系统会将用户的垂直滑动操作方向识别为相反方向。 例如，用户向上滑动，界面却向下滚动。 在受影响机型方面，IT之家援引博文介绍，目前 Pixel 10 系列、...",
+              "impact": "关注其对手机射频前端、PA/滤波器、5G/6G、车载通信和国产替代节奏的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            }
+          ]
+        }
+      }
+    },
+    "china": {
+      "label": "中国新闻",
+      "topics": {
+        "ai": {
+          "label": "AI产业",
+          "articles": [
+            {
+              "id": "n3f83c1d3",
+              "title": "The US says ASML’s top chip tool may be in China, but how?",
+              "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+              "source": "TechCrunch AI",
+              "domain": "techcrunch.com",
+              "publishedAt": "2026-06-19T07:59:12.000Z",
+              "snippet": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+              "image": "",
+              "topic": "ai",
+              "region": "china",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "The US says ASML’s top chip tool may be in China, but how?",
+                "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+                "pubDate": "Fri, 19 Jun 2026 07:59:12 +0000",
+                "published": "",
+                "updated": "",
+                "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "TechCrunch AI"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "中国新闻",
+              "score": 39,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及关键公司：ASML、Arm",
+                "涉及政策/监管/出口管制变量：license"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：TechCrunch AI",
+                "时间：06/19 15:59",
+                "主题：AI产业",
+                "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
+              ],
+              "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n9d69a601",
+              "title": "2026 年度京东 618 下单用户数再创新高：格力、小米等家电品牌成交额均超 10 亿",
+              "url": "https://www.ithome.com/0/966/462.htm",
+              "source": "IT之家",
+              "domain": "ithome.com",
+              "publishedAt": "2026-06-20T00:27:10.000Z",
+              "snippet": "IT之家 6 月 20 日消息，据“京东黑板报”官方微博，京东宣布截至 6 月 18 日 23:59，“京东 618”活动期间下单用户数再创新高，3C 数码 AI 趋势产品成交额同比增长 100%，超 1800 个家电家居品牌成交额同比增长超 100%。 IT之家注意到，京东 618 期间，美的、海尔、海信、TCL、格力、小米等家电品牌成交额均超 10 亿，九牧、喜临门、箭牌、芝华仕、欧普照明、恒洁等家居品牌成交额破亿。智能数码品牌大疆、影石、创想三维成交额同比增长近 100%，以苹果、联想、华为、华硕为代表的高端手机与高端轻薄笔记本成交额分别同比增长 300% 与 100%，市场领先优势进一步扩大。 同时，今年 618 期间京东家政日常保洁成交额同比增长超 200%，家电清洗成交额同比增长超 300%。京东护士到家失能照护服务订单量同比增长超 4 倍。京东家电家居带有送装一体服务的商品成交单量同比增长超 120%。京东汽车充...",
+              "image": "",
+              "topic": "ai",
+              "region": "china",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "2026 年度京东 618 下单用户数再创新高：格力、小米等家电品牌成交额均超 10 亿",
+                "link": "https://www.ithome.com/0/966/462.htm",
+                "pubDate": "Sat, 20 Jun 2026 00:27:10 GMT",
+                "published": "",
+                "updated": "",
+                "description": "<p data-vmark=\"435c\">IT之家 6 月 20 日消息，据“京东黑板报”官方微博，京东宣布截至 6 月 18 日 23:59，“京东 618”活动期间下单用户数再创新高，3C 数码 AI 趋势产品成交额同比增长 100%，超 1800 个家电家居品牌成交额同比增长超 100%。</p><p data-vmark=\"2d25\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/886a45f8-0187-44b6-a0e9-6e83982af2f8.png?x-bce-process=image/format,f_auto\" w=\"650\" h=\"1048\" data-weibo=\"0\" data-vmark=\"142d\"></p><p data-vmark=\"bde4\">IT之家注意到，京东 618 期间，美的、海尔、海信、TCL、格力、小米等家电品牌成交额均超 10 亿，九牧、喜临门、箭牌、芝华仕、欧普照明、恒洁等家居品牌成交额破亿。智能数码品牌大疆、影石、创想三维成交额同比增长近 100%，以苹果、联想、华为、华硕为代表的高端手机与高端轻薄笔记本成交额分别同比增长 300% 与 100%，市场领先优势进一步扩大。</p><p data-vmark=\"540b\">同时，今年 618 期间京东家政日常保洁成交额同比增长超 200%，家电清洗成交额同比增长超 300%。京东护士到家失能照护服务订单量同比增长超 4 倍。京东家电家居带有送装一体服务的商品成交单量同比增长超 120%。京东汽车充电桩送装一体服务订单量同比增长 80%，电动车、摩托车等二轮车上门维修服务订单量同比增长 8 倍。</p><p data-vmark=\"8c7b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/095de7ae-1497-42fa-a7dd-ce10056a98d4.jpg?x-bce-process=image/format,f_auto\" w=\"650\" h=\"433\" data-weibo=\"1\" data-vmark=\"0e92\"></p><p data-vmark=\"0437\">其他方面，今年参与 618 的中小新商数量同比增长超 62%，超 3000 个首次参加京东 618 的新商家成交额破百万。618 期间直播总用户停留时长同比增长超 100%，青春采销直播日均销售额同比增长 100%，总裁、明星直播场次均同比增长 130%，商超、京喜等大众消费品类直播销售额同比增长超 100%。</p>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "IT之家"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "中国新闻",
+              "score": 37,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及关键公司：华为",
+                "涉及财报、订单、产能或供应链：订单",
+                "发布时间较新"
+              ],
+              "recommendation": "重点扫读",
+              "keyFacts": [
+                "来源：IT之家",
+                "时间：06/20 08:27",
+                "主题：AI产业",
+                "IT之家 6 月 20 日消息，据“京东黑板报”官方微博，京东宣布截至 6 月 18 日 23:59，“京东 618”活动期间下单用户数再创新高，3C 数码 AI 趋势产品成交额同比增长 100%，超 1800 个家电家居品牌成交额同比增..."
+              ],
+              "summary": "IT之家 6 月 20 日消息，据“京东黑板报”官方微博，京东宣布截至 6 月 18 日 23:59，“京东 618”活动期间下单用户数再创新高，3C 数码 AI 趋势产品成交额同比增长 100%，超 1800 个家电家居品牌成交额同比增长超 100%。 IT之家注意到，京东 618 期间，美的、海尔、海信、TCL、格力、小米等家电品牌成交额均超 10 亿，九牧、喜临门、箭牌、芝华仕、欧普照明、恒洁等家居品牌成交额破亿。智能数码品牌大疆、影石、创想三维成交额同比增长近 100%，以苹果、联想、华为、华硕为代表的高...",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            },
+            {
+              "id": "n846a9541",
+              "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+              "url": "https://36kr.com/p/3858015526704129?f=rss",
+              "source": "36氪",
+              "domain": "36kr.com",
+              "publishedAt": "2026-06-18T12:47:44.000Z",
+              "snippet": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。 菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库 36氪获悉，6月18日，菜鸟副总裁、物流科技事业部总经理毕江华表示，菜鸟自研生产的攀爬机器人经过618大促检验，显著提升了电商供应链的智能作业能力，下一步菜鸟将加快面向全球市场投入攀爬机器人，未来四个月内，将联合电商平台、知名品牌等在国内和欧洲新交付四座大型攀爬机器人仓库。 钉钉新CEO发布全员信：成立核心平台业务部，整合悟...",
+              "image": "",
+              "topic": "ai",
+              "region": "china",
+              "origin": "rss",
+              "language": "",
+              "raw": {
+                "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+                "link": "https://36kr.com/p/3858015526704129?f=rss",
+                "pubDate": "2026-06-18 20:47:44  +0800",
+                "published": "",
+                "updated": "",
+                "description": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858412283827206\"><strong>滴滴自动驾驶参加伦敦MOVE 2026大会</strong></a></p>\n  <p>6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858271871145217\"><strong>菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库</strong></a></p>\n  <p>36氪获悉，6月18日，菜鸟副总裁、物流科技事业部总经理毕江华表示，菜鸟自研生产的攀爬机器人经过618大促检验，显著提升了电商供应链的智能作业能力，下一步菜鸟将加快面向全球市场投入攀爬机器人，未来四个月内，将联合电商平台、知名品牌等在国内和欧洲新交付四座大型攀爬机器人仓库。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858449200780292\"><strong>钉钉新CEO发布全员信：成立核心平台业务部，整合悟空与MuleRun团队</strong></a></p>\n  <p>36氪获悉，钉钉新CEO陈宇森今日发布全员信，宣布成立核心平台业务部，负责钉钉等一系列核心业务，由一粟负责。整合悟空与MuleRun两个团队，成立新的悟空团队，由束骏亮负责。将直销、电销、服务商、售前、交付、客户成功团队全面整合，成立客户发展部，由杨猛负责。成立市场部，由筱琬负责。成立公司信息技术部，负责优化迭代公司各业务系统，由邓悟负责。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858395073664261\"><strong>市场监管总局督导货拉拉落实反垄断合规整改</strong></a></p>\n  <p>前期，市场监管总局依据《中华人民共和国反垄断法》公开约谈货拉拉，要求其停止利用算法不合理压低货运价格、利用平台规则实施强制独家车贴等行为，全面开展自查整改，依法合规经营，主动回应各方关切，自觉接受社会监督。市场监管总局加强对货拉拉反垄断合规整改的全过程督导，压实平台主体责任，督促其严格落实整改要求，具体包括：停止利用算法不合理压低货运价格，严格控制多因素计价订单占比，公平合理运用调价算法，推动平均每单运价、每公里运价合理回升，并常态化公示计价规则和运价涨降理由；全面取消强制独家车贴规则，停止提高抽成、罚款等惩罚措施，并将向司机退还不合理费用1.2亿元；切实降低平台抽成费率，平台整体抽成费率由整改前约11%降至约9%，每年可减轻司机负担超13亿元。（央视新闻）</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858186455831560\"><strong>曹操出行入局Robovan，计划投放10万辆</strong></a></p>\n  <p>6月18日，曹操出行在2026国际汽车及供应链博览会（香港）上宣布全面布局Robovan（自动驾驶货运车）领域。公司正式发布RoboX战略，宣布全面AI转型，致力于打造领先的物理AI移动科技平台。作为RoboX战略的重要组成部分，曹操出行计划到2030年累计投放10万辆Robovan，加速构建覆盖物流配送等场景的智能运力网络。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858184796591369\"><strong>BilibiliWorld 2026成国内首个海外售票的综合性ACG展会</strong></a></p>\n  <p>今日，BilibiliWorld 2026（以下简称BW2026）公布售票信息，将于北京时间2026年6月20日18:00全球同步开票，展会将在2026年7月10日至12日在上海国家会展中心举办。本次BW2026将首次在超过190个国家和地区同步开票，成为全国首个面向海外观众售票的综合性ACG展会。</p>\n  <h2><strong>投融资：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858274566280453\"><strong>KKR对Altavair的飞机租赁业务承诺投资14亿美元</strong></a></p>\n  <p>6月18日，私募股权公司KKR发表声明称，将承诺投入14亿美元股权资金，继续与Altavair合作扩大其全球商用飞机租赁投资组合。KKR表示，这项最新承诺建立在先前与Altavair合作设立的两个飞机租赁组合基础之上。此次投资主要来自KKR的基础设施和资产抵押融资策略。（界面）</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858188204889345\"><strong>“Manifold AI流形空间”完成近10亿元PreA轮融资</strong></a></p>\n  <p>36氪获悉，近日，“Manifold AI流形空间”宣布完成新一轮数亿元融资，本轮新投资方包括中国国新旗下国新基金，淡马锡旗下毅峰资本，产业资本北汽产投、芯能创投，同时四家老股东超额追加投资。</p>\n  <h2><strong>今日观点：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858426262557705\"><strong>高盛：若通胀持续居高不下，美联储9月或开启“连环加息”</strong></a></p>\n  <p>据报道，高盛集团副董事长、达拉斯联储前主席罗伯特·卡普兰日前表示，如果通胀持续居高不下，美联储最早可能需要在9月加息。卡普兰还强调，美联储的政策调整极少是单次行动，利率变动通常会连续进行两到三次。（界面）</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858455470003465\"><strong>香港将推出五年期国债期货</strong></a></p>\n  <p>36氪获悉，香港证券及期货事务监察委员会（香港证监会）欣然宣布，香港计划于2026年8月3日推出五年期国债期货。经评估市场需求及宏观环境后，五年期国债被选为首先在香港交易及结算所有限公司（香港交易所）买卖的国债期货合约的相关资产。香港交易所一直就须获证监会批准的国债期货的推出作必要准备，并将另行公布合约细节。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858393680270599\"><strong>让AI走进千家万户，17项举措推进“人工智能+消费”发展</strong></a></p>\n  <p>商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》，围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，促进人工智能进千家万户、进千商万店，更好满足人民美好生活需要。此次《意见》从供需两侧同时发力，打通了人工智能应用过程中“有产品无市场”或“有需求无供给”的结构性堵点。在商品消费领域，《意见》提出扩大智能终端供给，推动消费电子产品从功能型向智能型转变。布局人形机器人消费新赛道，加速机器人从工业场景向消费场景渗透。搭建商品首发平台促进新产品触达。打造“人、车、家”全场景联动生态，并将AI与脑机接口、增强现实等前沿技术融合，研发推出一批国际领先的新产品。在服务消费领域，《意见》围绕居家、养老、文旅、住宿餐饮、教育五大场景，也提出了多项务实举措。比如，研究将智能家居及服务应用纳入“好房子”建设指南。指导养老服务机构运用人工智能技术，布局信息化管理、智能安防等技术系统，配备智能护理机器人、康复机器人等产品。应用人工智能技术提升境外人员酒店入住服务便利性。 （央视新闻）</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858362375214082\"><strong>商务部：中欧经贸领域沟通顺畅，中方愿与欧方通过对话协商管控分歧</strong></a></p>\n  <p>36氪获悉，在今天召开的商务部例行新闻发布会上，新闻发言人何亚东表示，中欧经贸领域沟通顺畅。6月9日，商务部副部长兼国际贸易谈判副代表凌激在欧盟总部与欧委会贸易和经济安全总司约根森总司长举行会谈，深入、全面地讨论了中欧贸易投资磋商机制的有关工作，为近期计划举行的部长级磋商做好准备。会谈中，欧方表示，贸易战不是欧盟对华政策目标，对中欧开展建设性对话持积极态度。中方愿与欧方共同落实双方领导人共识，通过对话协商管控分歧，妥处摩擦，促进务实合作，推动双边经贸关系健康稳定发展。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858187276784649\"><strong>快舟十一号遥十三运载火箭发射成功</strong></a></p>\n  <p>北京时间2026年6月17日11时58分，快舟十一号遥十三运载火箭在酒泉卫星发射中心发射升空，将微厘空间05组卫星送入预定轨道，飞行试验任务取得成功。（央视新闻）</p>",
+                "image": ""
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "36氪"
+              ],
+              "topicLabel": "AI产业",
+              "regionLabel": "中国新闻",
+              "score": 34,
+              "scoreReasons": [
+                "来自订阅源，来源可追踪",
+                "涉及财报、订单、产能或供应链：供应链",
+                "涉及技术发布、量产或路线图：发布"
+              ],
+              "recommendation": "备查",
+              "keyFacts": [
+                "来源：36氪",
+                "时间：06/18 20:47",
+                "主题：AI产业",
+                "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与..."
+              ],
+              "summary": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。 菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库 36氪...",
+              "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+            }
+          ]
+        },
+        "semiconductor": {
+          "label": "半导体产业",
+          "articles": [
+            {
+              "id": "ne7d670fe",
+              "title": "国产算力芯片TOP30发布 ： 赛道细分竞争 ， 中诚华隆曦望加速IPO突围 - 业界动态 - ITBear科技资讯",
+              "url": "https://www.itbear.com.cn/html/2026-06/1403655.html",
+              "source": "itbear.com.cn",
+              "domain": "itbear.com.cn",
+              "publishedAt": "2026-06-19T21:30:00.000Z",
+              "snippet": "",
+              "image": "",
+              "topic": "semiconductor",
+              "region": "china",
+              "origin": "gdelt",
+              "language": "Chinese",
+              "raw": {
+                "url": "https://www.itbear.com.cn/html/2026-06/1403655.html",
+                "url_mobile": "",
+                "title": "国产算力芯片TOP30发布 ： 赛道细分竞争 ， 中诚华隆曦望加速IPO突围 - 业界动态 - ITBear科技资讯",
+                "seendate": "20260619T213000Z",
+                "socialimage": "",
+                "domain": "itbear.com.cn",
+                "language": "Chinese",
+                "sourcecountry": "China"
+              },
+              "mentions": 1,
+              "mergedSources": [
+                "itbear.com.cn"
+              ],
+              "topicLabel": "半导体产业",
+              "regionLabel": "中国新闻",
+              "score": 35,
+              "scoreReasons": [
+                "涉及融资、并购或资本开支：IPO",
+                "涉及技术发布、量产或路线图：发布",
+                "发布时间较新"
+              ],
+              "recommendation": "备查",
+              "keyFacts": [
+                "来源：itbear.com.cn",
+                "时间：06/20 05:30",
+                "主题：半导体产业"
+              ],
+              "summary": "该新闻标题命中了产业关键词，但公开摘要有限。建议结合原文确认事件细节、涉及主体与后续影响。",
+              "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+              "whyRead": "信息价值偏背景，可作为后续检索线索。",
+              "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+            }
+          ]
+        },
+        "rf": {
+          "label": "射频芯片产业",
+          "articles": []
+        }
+      }
+    }
+  },
+  "tomorrowWatch": [
+    "继续跟踪 Intel 相关后续报道、公告和供应链反馈。",
+    "继续跟踪 Amazon 相关后续报道、公告和供应链反馈。",
+    "继续跟踪 Anthropic 相关后续报道、公告和供应链反馈。",
+    "继续跟踪 AMD 相关后续报道、公告和供应链反馈。",
+    "继续跟踪 Micron 相关后续报道、公告和供应链反馈。",
+    "关注出口管制、监管审查和补贴政策是否出现后续细则。"
+  ],
+  "articles": [
+    {
+      "id": "ne425da48",
+      "title": "Chip Industry Week In Review",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-143/",
+      "source": "Semiconductor Engineering",
+      "domain": "semiengineering.com",
+      "publishedAt": "2026-06-19T07:01:41.000Z",
+      "snippet": "Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive RoT; Brewer's buy; VLSI Symposium tech; CHIPS Act funding; MIT sensor; RISC-V CPU fuzzing. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
+      "image": "",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "Chip Industry Week In Review",
+        "link": "https://semiengineering.com/chip-industry-week-in-review-143/",
+        "pubDate": "Fri, 19 Jun 2026 07:01:41 +0000",
+        "published": "",
+        "updated": "",
+        "description": "<p>Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive RoT; Brewer's buy; VLSI Symposium tech; CHIPS Act funding; MIT sensor; RISC-V CPU fuzzing.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-week-in-review-143/\">Chip Industry Week In Review</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "Semiconductor Engineering"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 68,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "权威或产业核心来源",
+        "涉及关键公司：Intel、Apple、Amazon",
+        "涉及政策/监管/出口管制变量：CHIPS Act",
+        "涉及融资、并购或资本开支：funding"
+      ],
+      "recommendation": "建议完整阅读",
+      "keyFacts": [
+        "来源：Semiconductor Engineering",
+        "时间：06/19 15:01",
+        "主题：半导体产业",
+        "Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive RoT; Brewe..."
+      ],
+      "summary": "Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive RoT; Brewer's buy; VLSI Symposium tech; CHIPS Act funding; MIT sensor; RISC-V CPU fuzzing. The post Chip Industry Week In Review appeared first on Sem...",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "这条新闻可能影响短期产业预期，来自订阅源，来源可追踪。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "nc2d0a355",
+      "title": "Anthropic 恰乌里称有信心“未来几天”重新开放 Mythos 及 Fable 5 AI 模型",
+      "url": "https://www.ithome.com/0/966/466.htm",
+      "source": "IT之家",
+      "domain": "ithome.com",
+      "publishedAt": "2026-06-20T00:48:39.000Z",
+      "snippet": "IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示， 公司有信心“未来几天内”向美国之外地区重新开放 Claude Mythos 以及 Claude Fable 5 模型。 IT之家此前报道，由于美国白宫安全指令，Anthropic 临时封锁了其前沿模型 Mythos 和 Fable 5 的访问权限。恰乌里在首尔新闻发布会上表示，有信心在“未来几天内”重新开放。 恰乌里表示 Anthropic 将深化对韩投资，已开始组建团队，涵盖商业、技术、政策和运营人员，并计划在未来数月快速扩展。韩国在 Anthropic 全球使用量中排名第 12 位，被视作增长最快市场之一。 Project Glasswing 是 Anthropoic 为应对 Mythos 潜在风险而启动的网络安全倡议，仅向特定...",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "Anthropic 恰乌里称有信心“未来几天”重新开放 Mythos 及 Fable 5 AI 模型",
+        "link": "https://www.ithome.com/0/966/466.htm",
+        "pubDate": "Sat, 20 Jun 2026 00:48:39 GMT",
+        "published": "",
+        "updated": "",
+        "description": "<p data-vmark=\"0ae6\">IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示，<strong>公司有信心“未来几天内”向美国之外地区重新开放 Claude Mythos 以及 Claude Fable 5 模型。</strong></p><p data-vmark=\"14f9\">IT之家此前报道，由于美国白宫安全指令，Anthropic 临时封锁了其前沿模型 Mythos 和 Fable 5 的访问权限。恰乌里在首尔新闻发布会上表示，有信心在“未来几天内”重新开放。</p><p data-vmark=\"35c0\">恰乌里表示 Anthropic 将深化对韩投资，已开始组建团队，涵盖商业、技术、政策和运营人员，并计划在未来数月快速扩展。韩国在 Anthropic 全球使用量中排名第 12 位，被视作增长最快市场之一。</p><p data-vmark=\"ec18\">Project Glasswing 是 Anthropoic 为应对 Mythos 潜在风险而启动的网络安全倡议，仅向特定实体开放该模型。目前该计划约有 150 个合作伙伴，包括谷歌、英伟达、微软、苹果、三星电子、SK 海力士和 SK Telecom。</p><p data-vmark=\"1cfc\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"5bb1\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/963/772.htm\">因美国政府政策限制，Anthropic 暂停供应 Mythos 5/Fable 5 模型</a>》</p></li><li><p data-vmark=\"0bb8\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/962/152.htm\">最强 Claude 模型：Anthropic 推出 Fable 5/Mythos 5，书写 AI 神话</a>》</p></li></ul>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "IT之家"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 55,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及关键公司：Anthropic",
+        "涉及政策/监管/出口管制变量：政策",
+        "涉及融资、并购或资本开支：投资",
+        "涉及技术发布、量产或路线图：发布"
+      ],
+      "recommendation": "建议完整阅读",
+      "keyFacts": [
+        "来源：IT之家",
+        "时间：06/20 08:48",
+        "主题：AI产业",
+        "IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示， 公司有信心“未来几天内”向美国之外地区重..."
+      ],
+      "summary": "IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示， 公司有信心“未来几天内”向美国之外地区重新开放 Claude Mythos 以及 Claude Fable 5 模型。 IT之家此前报道，由于美国白宫安全指令，Anthropic 临时封锁了其前沿模型 Mythos 和 Fable 5 的访问权限。恰乌里在首尔新闻发布会上表示，有信心在“未来几天内”重新开放。 恰乌里表...",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "nabfa1a78",
+      "title": "受内存价格持续飙升影响，Nothing 宣布今年停更 CMF 系列手机",
+      "url": "https://www.ithome.com/0/966/450.htm",
+      "source": "IT之家",
+      "domain": "ithome.com",
+      "publishedAt": "2026-06-19T23:07:57.000Z",
+      "snippet": "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。 IT之家注意到，Nothing CEO 裴宇上周 也发文透露 ，公司旗下中端机 Nothing Phone (4a) 的成本正在迅速上涨。他透露，在产品立项到正式上市期间，内存成本翻了一倍；而上市之后到现在，价格又再次翻倍。目前“内存已经成为智能手机里最贵的零部件”。 业内普遍认为，这一轮内存涨价主要与 AI 服务器需求暴涨有关。随着英伟达等厂商大量采购高带宽内存（HBM）和 DRAM，整体存储供应链变得更加紧张，连带消费电子市场也受到挤压。对于在海外主打“性价比定价”的 CMF 来说，这种冲击尤其明显，一旦核心元件成本暴涨，很难通过...",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "受内存价格持续飙升影响，Nothing 宣布今年停更 CMF 系列手机",
+        "link": "https://www.ithome.com/0/966/450.htm",
+        "pubDate": "Fri, 19 Jun 2026 23:07:57 GMT",
+        "published": "",
+        "updated": "",
+        "description": "<p data-vmark=\"e714\">IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。</p><p style=\"text-align: center;\" data-vmark=\"258c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/a6f85aed-cf42-411c-93f8-df0144a8ddf7.jpg?x-bce-process=image/format,f_auto\" w=\"954\" h=\"1148\" data-weibo=\"0\" data-mpos=\"2,2\"  data-vmark=\"89a3\" class=\"no-alt-img\"></p><p data-vmark=\"3d9c\">IT之家注意到，Nothing CEO 裴宇上周<a href=\"https://www.ithome.com/0/964/082.htm\" target=\"_blank\">也发文透露</a>，公司旗下中端机 Nothing Phone (4a) 的成本正在迅速上涨。他透露，在产品立项到正式上市期间，内存成本翻了一倍；而上市之后到现在，价格又再次翻倍。目前“内存已经成为智能手机里最贵的零部件”。</p><p data-vmark=\"1661\">业内普遍认为，这一轮内存涨价主要与 AI 服务器需求暴涨有关。随着英伟达等厂商大量采购高带宽内存（HBM）和 DRAM，整体存储供应链变得更加紧张，连带消费电子市场也受到挤压。对于在海外主打“性价比定价”的 CMF 来说，这种冲击尤其明显，一旦核心元件成本暴涨，很难通过涨价完全转嫁给消费者。</p><p data-vmark=\"a6e0\">不过，Akis Evangelidis 也强调，虽然今年不会有新的 CMF 手机，但 CMF 仍有多个新品正在准备中，甚至还会进入一些“全新品类”，同时他还暗示公司主品牌 Nothing 仍然会推出新款手机。</p><p style=\"text-align: center;\" data-vmark=\"1e25\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/411bd5e9-502b-4303-8f04-8b5a220f9a48.png?x-bce-process=image/format,f_auto\" w=\"600\" h=\"600\" data-weibo=\"1\" data-vmark=\"1663\" class=\"no-alt-img\"></p><figcaption>▲ CMF Phone 2 Pro</figcaption>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "IT之家"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 48,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及融资、并购或资本开支：上市",
+        "涉及财报、订单、产能或供应链：供应链",
+        "涉及技术发布、量产或路线图：发布",
+        "发布时间较新"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：IT之家",
+        "时间：06/20 07:07",
+        "主题：AI产业",
+        "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代..."
+      ],
+      "summary": "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。 IT之家注意到，Nothing CEO 裴宇上周 也发文透露 ，公司旗下中端机 Nothing Phone (4a) 的成本正在迅速上涨。他透露，在产品立项到正式上市期间，内存成本翻了一倍；而上市之后到现在，价格又再次翻...",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n8494750",
+      "title": "游戏发行巨头 Embracer：因业界内存涨价潮，索尼 PS6 预计将延期至 2028-2029 年上市",
+      "url": "https://www.ithome.com/0/966/465.htm",
+      "source": "IT之家",
+      "domain": "ithome.com",
+      "publishedAt": "2026-06-20T00:47:43.000Z",
+      "snippet": "IT之家 6 月 20 日消息，游戏发行巨头 Embracer 在最新年度报告中透露，受芯片、存储器以及相关硬件成本持续上涨影响，索尼 SIE 正在重新评估 PS6 的上市计划，预计该机上市时间将从 2027 年（明年）延期至 2028-2029 年。 IT之家注意到，此前彭博社也透露类似的观点，同样认为索尼 PS6 游戏机将延期至 2028-2029 年发布。不过索尼 SIE 则是在今年 5 月财报问答环节中透露公司还没有正式决定 PS6 的发布时间和定价。 虽然索尼 SIE 目前尚未对相关传闻作出回应，但业内人士普遍认为，PS6 的研发工作已经进入关键阶段。不过在硬件成本持续上涨的背景下，索尼或许担心新主机首发价格过高，从而影响市场接受度和产品销量。",
+      "image": "",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "游戏发行巨头 Embracer：因业界内存涨价潮，索尼 PS6 预计将延期至 2028-2029 年上市",
+        "link": "https://www.ithome.com/0/966/465.htm",
+        "pubDate": "Sat, 20 Jun 2026 00:47:43 GMT",
+        "published": "",
+        "updated": "",
+        "description": "<p data-vmark=\"ddfb\">IT之家 6 月 20 日消息，游戏发行巨头 Embracer 在最新年度报告中透露，受芯片、存储器以及相关硬件成本持续上涨影响，索尼 SIE 正在重新评估 PS6 的上市计划，预计该机上市时间将从 2027 年（明年）延期至 2028-2029 年。</p><p style=\"text-align: center;\" data-vmark=\"b525\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/363da539-29cc-42e6-bad6-e139de56c594.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"808\" data-weibo=\"0\" data-vmark=\"fc98\" class=\"no-alt-img\"></p><p data-vmark=\"d560\">IT之家注意到，此前彭博社也透露类似的观点，同样认为索尼 PS6 游戏机将延期至 2028-2029 年发布。不过索尼 SIE 则是在今年 5 月财报问答环节中透露公司还没有正式决定 PS6 的发布时间和定价。</p><p data-vmark=\"d6ac\">虽然索尼 SIE 目前尚未对相关传闻作出回应，但业内人士普遍认为，PS6 的研发工作已经进入关键阶段。不过在硬件成本持续上涨的背景下，索尼或许担心新主机首发价格过高，从而影响市场接受度和产品销量。</p>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "IT之家"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 48,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及融资、并购或资本开支：上市",
+        "涉及财报、订单、产能或供应链：财报",
+        "涉及技术发布、量产或路线图：发布",
+        "发布时间较新"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：IT之家",
+        "时间：06/20 08:47",
+        "主题：半导体产业",
+        "IT之家 6 月 20 日消息，游戏发行巨头 Embracer 在最新年度报告中透露，受芯片、存储器以及相关硬件成本持续上涨影响，索尼 SIE 正在重新评估 PS6 的上市计划，预计该机上市时间将从 2027 年（明年）延期至 2028-..."
+      ],
+      "summary": "IT之家 6 月 20 日消息，游戏发行巨头 Embracer 在最新年度报告中透露，受芯片、存储器以及相关硬件成本持续上涨影响，索尼 SIE 正在重新评估 PS6 的上市计划，预计该机上市时间将从 2027 年（明年）延期至 2028-2029 年。 IT之家注意到，此前彭博社也透露类似的观点，同样认为索尼 PS6 游戏机将延期至 2028-2029 年发布。不过索尼 SIE 则是在今年 5 月财报问答环节中透露公司还没有正式决定 PS6 的发布时间和定价。 虽然索尼 SIE 目前尚未对相关传闻作出回应，但业内...",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n9a36829b",
+      "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
+      "url": "https://www.ithome.com/0/966/482.htm",
+      "source": "IT之家",
+      "domain": "ithome.com",
+      "publishedAt": "2026-06-20T03:05:48.000Z",
+      "snippet": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本， 通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。 IT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。 ACE 全称为 AI Compute Extensions，是一组专为加速人工智能与机器学习负载设计的 x86 指令集，其核心目标是优化矩阵乘法运算（深度学习中最频繁的计算操作）和低精度数据格式处理。 在长期愿景方面，此前 AVX-512 指令集因各厂商不同实现导致软件生态碎片化，ACE 从设计之初就要求 AMD 与英特尔共同承诺支持，且未来产品更迭不会轻易废弃。 技术细节方面，ACE 在现有 AVX...",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
+        "link": "https://www.ithome.com/0/966/482.htm",
+        "pubDate": "Sat, 20 Jun 2026 03:05:48 GMT",
+        "published": "",
+        "updated": "",
+        "description": "<p data-vmark=\"a950\">IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本，<strong>通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。</strong></p><p data-vmark=\"c783\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/4246978b-8906-424c-82b9-c574c4a57822.png?x-bce-process=image/format,f_auto\" w=\"898\" h=\"1660\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FInstLatX64%2Fstatus%2F2067930113295942075%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FInstLatX64%2Fstatus%2F2067930113295942075%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"4c17\" class=\"no-alt-img\"></p><p data-vmark=\"74ca\">IT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。</p><p data-vmark=\"55ea\">ACE 全称为 AI Compute Extensions，是一组专为加速人工智能与机器学习负载设计的 x86 指令集，其核心目标是优化矩阵乘法运算（深度学习中最频繁的计算操作）和低精度数据格式处理。</p><p data-vmark=\"5772\">在长期愿景方面，此前 AVX-512 指令集因各厂商不同实现导致软件生态碎片化，ACE 从设计之初就要求 AMD 与英特尔共同承诺支持，且未来产品更迭不会轻易废弃。</p><p data-vmark=\"667c\">技术细节方面，ACE 在现有 AVX 向量指令基础上，新增了“图块寄存器”（tile register）状态，并定义了数据移动与处理操作。ACE 还纳入 AVX10 框架下的专用格式转换指令，进一步完善低精度数据支持。</p><p data-vmark=\"ff8e\">在部署路线图上，AMD 明确 Zen 6 将引入“新 AI 数据类型支持”与“更多 AI 管线”，Zen 7 则直接配备“新矩阵引擎”与“AI 数据格式扩展”。</p><p data-vmark=\"ed4c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/1316257b-3d7f-4ba8-a63e-091ca8359f4d.jpg?x-bce-process=image/format,f_auto\" w=\"596\" h=\"335\" data-weibo=\"1\" data-vmark=\"7f70\" class=\"no-alt-img\"></p><p data-vmark=\"8e15\">在数据支持范围上，ACE 支持 INT8、INT32、FP32、BF16、FP16、E8M0、FP8，以及 MX 联盟定义的 MX FP8（SE5M2/SE4M3）、MX FP6（SE3M2/SE2M3）、MX FP4（SE2M1）和 MX INT8 等。</p><p data-vmark=\"6a93\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"a9a4\"><a href=\"https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/\" target=\"_blank\">AI Compute Extensions (ACE) Specification</a></p></li></ul>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "IT之家"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 40,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及关键公司：AMD",
+        "涉及技术发布、量产或路线图：性能、发布",
+        "发布时间较新"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：IT之家",
+        "时间：06/20 11:05",
+        "主题：AI产业",
+        "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本， 通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能..."
+      ],
+      "summary": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本， 通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。 IT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。 ACE 全称为 AI Compute Extensions，是一组专为加速人工智能与...",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "适合快速扫读，确认是否与关注公司或细分赛道相关。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n2579a421",
+      "title": "Billions Pour into Autonomous Defense as AI Redefines Warfare",
+      "url": "https://www.eetimes.com/billions-pour-into-autonomous-defense-as-ai-redefines-warfare/",
+      "source": "EE Times",
+      "domain": "eetimes.com",
+      "publishedAt": "2026-06-18T19:09:37.000Z",
+      "snippet": "Record investment is accelerating autonomous military tech, putting edge AI and drones at the center of modern conflict. The post Billions Pour into Autonomous Defense as AI Redefines Warfare appeared first on EE Times . ]]>",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "Billions Pour into Autonomous Defense as AI Redefines Warfare",
+        "link": "https://www.eetimes.com/billions-pour-into-autonomous-defense-as-ai-redefines-warfare/",
+        "pubDate": "Thu, 18 Jun 2026 19:09:37 +0000",
+        "published": "",
+        "updated": "",
+        "description": "<![CDATA[<p>Record investment is accelerating autonomous military tech, putting edge AI and drones at the center of modern conflict.</p>\n<p>The post <a href=\"https://www.eetimes.com/billions-pour-into-autonomous-defense-as-ai-redefines-warfare/\">Billions Pour into Autonomous Defense as AI Redefines Warfare</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>\n]]>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "EE Times"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 39,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "权威或产业核心来源",
+        "涉及融资、并购或资本开支：investment"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：EE Times",
+        "时间：06/19 03:09",
+        "主题：AI产业",
+        "Record investment is accelerating autonomous military tech, putting edge AI and drones at the center of modern conflict..."
+      ],
+      "summary": "Record investment is accelerating autonomous military tech, putting edge AI and drones at the center of modern conflict. The post Billions Pour into Autonomous Defense as AI Redefines Warfare appeared first on EE Times . ]]>",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "nddd6e5",
+      "title": "All Semiconductor Roads Lead to Taiwan",
+      "url": "https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/",
+      "source": "EE Times",
+      "domain": "eetimes.com",
+      "publishedAt": "2026-06-19T07:45:00.000Z",
+      "snippet": "Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain. The post All Semiconductor Roads Lead to Taiwan appeared first on EE Times . ]]>",
+      "image": "",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "All Semiconductor Roads Lead to Taiwan",
+        "link": "https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/",
+        "pubDate": "Fri, 19 Jun 2026 07:45:00 +0000",
+        "published": "",
+        "updated": "",
+        "description": "<![CDATA[<p>Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain.</p>\n<p>The post <a href=\"https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/\">All Semiconductor Roads Lead to Taiwan</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>\n]]>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "EE Times"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 39,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "权威或产业核心来源",
+        "涉及财报、订单、产能或供应链：supply chain"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：EE Times",
+        "时间：06/19 15:45",
+        "主题：半导体产业",
+        "Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain. The pos..."
+      ],
+      "summary": "Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain. The post All Semiconductor Roads Lead to Taiwan appeared first on EE Times . ]]>",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n3f83c1d3",
+      "title": "The US says ASML’s top chip tool may be in China, but how?",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-06-19T07:59:12.000Z",
+      "snippet": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "image": "",
+      "topic": "ai",
+      "region": "china",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "The US says ASML’s top chip tool may be in China, but how?",
+        "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+        "pubDate": "Fri, 19 Jun 2026 07:59:12 +0000",
+        "published": "",
+        "updated": "",
+        "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "TechCrunch AI"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "中国新闻",
+      "score": 39,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及关键公司：ASML、Arm",
+        "涉及政策/监管/出口管制变量：license"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：TechCrunch AI",
+        "时间：06/19 15:59",
+        "主题：AI产业",
+        "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
+      ],
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n510bcbb9",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-06-19T16:08:17.000Z",
+      "snippet": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+        "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "pubDate": "Fri, 19 Jun 2026 16:08:17 +0000",
+        "published": "",
+        "updated": "",
+        "description": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "TechCrunch AI"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 39,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及关键公司：Amazon、Anthropic",
+        "涉及政策/监管/出口管制变量：ban"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：TechCrunch AI",
+        "时间：06/20 00:08",
+        "主题：AI产业",
+        "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, c..."
+      ],
+      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers ha...",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "nb1f259b5",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-06-18T19:59:22.000Z",
+      "snippet": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+        "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+        "pubDate": "Thu, 18 Jun 2026 19:59:22 +0000",
+        "published": "",
+        "updated": "",
+        "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "TechCrunch AI"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 39,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及关键公司：Google、OpenAI",
+        "涉及融资、并购或资本开支：IPO"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：TechCrunch AI",
+        "时间：06/19 03:59",
+        "主题：AI产业",
+        "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump..."
+      ],
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n2e84dc9e",
+      "title": "Analyst Warns Intel Valuation Doesnt Make Sense . Suggests NVIDIA , AMD , Micron , and Broadcom as Alternatives .",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-warns-intel-valuation-doesn-173648448.html",
+      "source": "finance.yahoo.com",
+      "domain": "finance.yahoo.com",
+      "publishedAt": "2026-06-19T18:15:00.000Z",
+      "snippet": "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe",
+      "image": "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "gdelt",
+      "language": "English",
+      "raw": {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-warns-intel-valuation-doesn-173648448.html",
+        "url_mobile": "",
+        "title": "Analyst Warns Intel Valuation  Doesnt Make Sense . Suggests NVIDIA , AMD , Micron , and Broadcom as Alternatives . ",
+        "seendate": "20260619T181500Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe",
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "sourcecountry": "United States"
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "finance.yahoo.com"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 37,
+      "scoreReasons": [
+        "涉及关键公司：NVIDIA、AMD、Intel、Micron",
+        "发布时间较新"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：finance.yahoo.com",
+        "时间：06/20 02:15",
+        "主题：半导体产业",
+        "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs..."
+      ],
+      "summary": "https://s.yimg.com/ny/api/res/1.2/iPk9KLLbXzbI27fa82YLow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+    },
+    {
+      "id": "n9d69a601",
+      "title": "2026 年度京东 618 下单用户数再创新高：格力、小米等家电品牌成交额均超 10 亿",
+      "url": "https://www.ithome.com/0/966/462.htm",
+      "source": "IT之家",
+      "domain": "ithome.com",
+      "publishedAt": "2026-06-20T00:27:10.000Z",
+      "snippet": "IT之家 6 月 20 日消息，据“京东黑板报”官方微博，京东宣布截至 6 月 18 日 23:59，“京东 618”活动期间下单用户数再创新高，3C 数码 AI 趋势产品成交额同比增长 100%，超 1800 个家电家居品牌成交额同比增长超 100%。 IT之家注意到，京东 618 期间，美的、海尔、海信、TCL、格力、小米等家电品牌成交额均超 10 亿，九牧、喜临门、箭牌、芝华仕、欧普照明、恒洁等家居品牌成交额破亿。智能数码品牌大疆、影石、创想三维成交额同比增长近 100%，以苹果、联想、华为、华硕为代表的高端手机与高端轻薄笔记本成交额分别同比增长 300% 与 100%，市场领先优势进一步扩大。 同时，今年 618 期间京东家政日常保洁成交额同比增长超 200%，家电清洗成交额同比增长超 300%。京东护士到家失能照护服务订单量同比增长超 4 倍。京东家电家居带有送装一体服务的商品成交单量同比增长超 120%。京东汽车充...",
+      "image": "",
+      "topic": "ai",
+      "region": "china",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "2026 年度京东 618 下单用户数再创新高：格力、小米等家电品牌成交额均超 10 亿",
+        "link": "https://www.ithome.com/0/966/462.htm",
+        "pubDate": "Sat, 20 Jun 2026 00:27:10 GMT",
+        "published": "",
+        "updated": "",
+        "description": "<p data-vmark=\"435c\">IT之家 6 月 20 日消息，据“京东黑板报”官方微博，京东宣布截至 6 月 18 日 23:59，“京东 618”活动期间下单用户数再创新高，3C 数码 AI 趋势产品成交额同比增长 100%，超 1800 个家电家居品牌成交额同比增长超 100%。</p><p data-vmark=\"2d25\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/886a45f8-0187-44b6-a0e9-6e83982af2f8.png?x-bce-process=image/format,f_auto\" w=\"650\" h=\"1048\" data-weibo=\"0\" data-vmark=\"142d\"></p><p data-vmark=\"bde4\">IT之家注意到，京东 618 期间，美的、海尔、海信、TCL、格力、小米等家电品牌成交额均超 10 亿，九牧、喜临门、箭牌、芝华仕、欧普照明、恒洁等家居品牌成交额破亿。智能数码品牌大疆、影石、创想三维成交额同比增长近 100%，以苹果、联想、华为、华硕为代表的高端手机与高端轻薄笔记本成交额分别同比增长 300% 与 100%，市场领先优势进一步扩大。</p><p data-vmark=\"540b\">同时，今年 618 期间京东家政日常保洁成交额同比增长超 200%，家电清洗成交额同比增长超 300%。京东护士到家失能照护服务订单量同比增长超 4 倍。京东家电家居带有送装一体服务的商品成交单量同比增长超 120%。京东汽车充电桩送装一体服务订单量同比增长 80%，电动车、摩托车等二轮车上门维修服务订单量同比增长 8 倍。</p><p data-vmark=\"8c7b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/095de7ae-1497-42fa-a7dd-ce10056a98d4.jpg?x-bce-process=image/format,f_auto\" w=\"650\" h=\"433\" data-weibo=\"1\" data-vmark=\"0e92\"></p><p data-vmark=\"0437\">其他方面，今年参与 618 的中小新商数量同比增长超 62%，超 3000 个首次参加京东 618 的新商家成交额破百万。618 期间直播总用户停留时长同比增长超 100%，青春采销直播日均销售额同比增长 100%，总裁、明星直播场次均同比增长 130%，商超、京喜等大众消费品类直播销售额同比增长超 100%。</p>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "IT之家"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "中国新闻",
+      "score": 37,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及关键公司：华为",
+        "涉及财报、订单、产能或供应链：订单",
+        "发布时间较新"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：IT之家",
+        "时间：06/20 08:27",
+        "主题：AI产业",
+        "IT之家 6 月 20 日消息，据“京东黑板报”官方微博，京东宣布截至 6 月 18 日 23:59，“京东 618”活动期间下单用户数再创新高，3C 数码 AI 趋势产品成交额同比增长 100%，超 1800 个家电家居品牌成交额同比增..."
+      ],
+      "summary": "IT之家 6 月 20 日消息，据“京东黑板报”官方微博，京东宣布截至 6 月 18 日 23:59，“京东 618”活动期间下单用户数再创新高，3C 数码 AI 趋势产品成交额同比增长 100%，超 1800 个家电家居品牌成交额同比增长超 100%。 IT之家注意到，京东 618 期间，美的、海尔、海信、TCL、格力、小米等家电品牌成交额均超 10 亿，九牧、喜临门、箭牌、芝华仕、欧普照明、恒洁等家居品牌成交额破亿。智能数码品牌大疆、影石、创想三维成交额同比增长近 100%，以苹果、联想、华为、华硕为代表的高...",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n1cf63231",
+      "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ...",
+      "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
+      "source": "morningstar.com",
+      "domain": "morningstar.com",
+      "publishedAt": "2026-06-20T04:30:00.000Z",
+      "snippet": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "gdelt",
+      "language": "English",
+      "raw": {
+        "url": "https://www.morningstar.com/news/dow-jones/202606193319/dow-jones-top-company-headlines-at-7-pm-et-why-intel-hired-the-former-ceo-of-microns-big-rival-sk-hynix-charles",
+        "url_mobile": "",
+        "title": "Dow Jones Top Company Headlines at 7 PM ET : Why Intel Hired the Former CEO of Micron Big Rival SK Hynix | Charles ... ",
+        "seendate": "20260620T043000Z",
+        "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+        "domain": "morningstar.com",
+        "language": "English",
+        "sourcecountry": "China"
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "morningstar.com"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 37,
+      "scoreReasons": [
+        "涉及关键公司：Intel、SK hynix、Micron",
+        "发布时间较新"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：morningstar.com",
+        "时间：06/20 12:30",
+        "主题：半导体产业",
+        "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-o..."
+      ],
+      "summary": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+    },
+    {
+      "id": "n7b774166",
+      "title": "Amazon’s Newest Gambit: Selling AI Chips",
+      "url": "https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/",
+      "source": "EE Times",
+      "domain": "eetimes.com",
+      "publishedAt": "2026-06-19T12:19:36.000Z",
+      "snippet": "The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale. The post Amazon’s Newest Gambit: Selling AI Chips appeared first on EE Times . ]]>",
+      "image": "",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "Amazon’s Newest Gambit: Selling AI Chips",
+        "link": "https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/",
+        "pubDate": "Fri, 19 Jun 2026 12:19:36 +0000",
+        "published": "",
+        "updated": "",
+        "description": "<![CDATA[<p>The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale.</p>\n<p>The post <a href=\"https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/\">Amazon’s Newest Gambit: Selling AI Chips</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>\n]]>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "EE Times"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 37,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "权威或产业核心来源",
+        "涉及关键公司：Amazon"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：EE Times",
+        "时间：06/19 20:19",
+        "主题：半导体产业",
+        "The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale. The post A..."
+      ],
+      "summary": "The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale. The post Amazon’s Newest Gambit: Selling AI Chips appeared first on EE Times . ]]>",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "nae994fe",
+      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-06-19T22:40:14.000Z",
+      "snippet": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+        "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "pubDate": "Fri, 19 Jun 2026 22:40:14 +0000",
+        "published": "",
+        "updated": "",
+        "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "TechCrunch AI"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 37,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及关键公司：Anthropic",
+        "涉及政策/监管/出口管制变量：export control",
+        "发布时间较新"
+      ],
+      "recommendation": "重点扫读",
+      "keyFacts": [
+        "来源：TechCrunch AI",
+        "时间：06/20 06:40",
+        "主题：AI产业",
+        "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear w..."
+      ],
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "ne7d670fe",
+      "title": "国产算力芯片TOP30发布 ： 赛道细分竞争 ， 中诚华隆曦望加速IPO突围 - 业界动态 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-06/1403655.html",
+      "source": "itbear.com.cn",
+      "domain": "itbear.com.cn",
+      "publishedAt": "2026-06-19T21:30:00.000Z",
+      "snippet": "",
+      "image": "",
+      "topic": "semiconductor",
+      "region": "china",
+      "origin": "gdelt",
+      "language": "Chinese",
+      "raw": {
+        "url": "https://www.itbear.com.cn/html/2026-06/1403655.html",
+        "url_mobile": "",
+        "title": "国产算力芯片TOP30发布 ： 赛道细分竞争 ， 中诚华隆曦望加速IPO突围 - 业界动态 - ITBear科技资讯",
+        "seendate": "20260619T213000Z",
+        "socialimage": "",
+        "domain": "itbear.com.cn",
+        "language": "Chinese",
+        "sourcecountry": "China"
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "itbear.com.cn"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "中国新闻",
+      "score": 35,
+      "scoreReasons": [
+        "涉及融资、并购或资本开支：IPO",
+        "涉及技术发布、量产或路线图：发布",
+        "发布时间较新"
+      ],
+      "recommendation": "备查",
+      "keyFacts": [
+        "来源：itbear.com.cn",
+        "时间：06/20 05:30",
+        "主题：半导体产业"
+      ],
+      "summary": "该新闻标题命中了产业关键词，但公开摘要有限。建议结合原文确认事件细节、涉及主体与后续影响。",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "中等：来自新闻索引，需要点开原文确认完整上下文。"
+    },
+    {
+      "id": "n5e3bb3e8",
+      "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
+      "url": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
+      "source": "EE Times",
+      "domain": "eetimes.com",
+      "publishedAt": "2026-06-19T22:00:00.000Z",
+      "snippet": "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Signal to Canadian Semiconductor Industry appeared first on EE Times . ]]>",
+      "image": "",
+      "topic": "semiconductor",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
+        "link": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
+        "pubDate": "Fri, 19 Jun 2026 22:00:00 +0000",
+        "published": "",
+        "updated": "",
+        "description": "<![CDATA[<p>Canada sharpens its defense and tech edge with policies to boost homegrown chip power.</p>\n<p>The post <a href=\"https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/\">Defense Sends Clear Signal to Canadian Semiconductor Industry</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>\n]]>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "EE Times"
+      ],
+      "topicLabel": "半导体产业",
+      "regionLabel": "全球新闻",
+      "score": 35,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "权威或产业核心来源",
+        "发布时间较新"
+      ],
+      "recommendation": "备查",
+      "keyFacts": [
+        "来源：EE Times",
+        "时间：06/20 06:00",
+        "主题：半导体产业",
+        "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Sig..."
+      ],
+      "summary": "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Signal to Canadian Semiconductor Industry appeared first on EE Times . ]]>",
+      "impact": "关注其对先进制程、存储、晶圆代工、设备材料、封装测试和供应链议价的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "nc5695976",
+      "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
+      "url": "https://www.ithome.com/0/966/467.htm",
+      "source": "IT之家",
+      "domain": "ithome.com",
+      "publishedAt": "2026-06-20T01:01:55.000Z",
+      "snippet": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其二是系统会将用户的垂直滑动操作方向识别为相反方向。 例如，用户向上滑动，界面却向下滚动。 在受影响机型方面，IT之家援引博文介绍，目前 Pixel 10 系列、Pixel 9 系列、Pixel 8 系列和 Pixel 7 系列手机用户均反馈存在上述问题。该媒体指出暂未看到有 Pixel 6 系列用户反馈。 二、5G 连接中断 根据用户反馈，升级安卓 17 后 5G 信号完全消失，导致连接中断，影响 Pixel 9 Pro、Pixel 9 Pro XL、Pixel 8 Pro、...",
+      "image": "",
+      "topic": "rf",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
+        "link": "https://www.ithome.com/0/966/467.htm",
+        "pubDate": "Sat, 20 Jun 2026 01:01:55 GMT",
+        "published": "",
+        "updated": "",
+        "description": "<p data-vmark=\"57f2\">IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。</p><h2 data-vmark=\"114f\">一、触控异常</h2><p data-vmark=\"92ce\">根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其二是系统会将用户的垂直滑动操作方向识别为相反方向。<strong>例如，用户向上滑动，界面却向下滚动。</strong></p><p data-vmark=\"f6d5\">在受影响机型方面，IT之家援引博文介绍，目前 Pixel 10 系列、Pixel 9 系列、Pixel 8 系列和 Pixel 7 系列手机用户均反馈存在上述问题。该媒体指出暂未看到有 Pixel 6 系列用户反馈。</p><h2 data-vmark=\"e04f\">二、5G 连接中断</h2><p data-vmark=\"e480\">根据用户反馈，升级安卓 17 后 5G 信号完全消失，导致连接中断，影响 Pixel 9 Pro、Pixel 9 Pro XL、Pixel 8 Pro、Pixel 8a 以及 Pixel 6a 等机型。</p><p data-vmark=\"6527\">除 5G 断连外，部分用户在更新重启后发现 eSIM 不复存在，或者已保存的家庭 Wi-Fi 网络无法自动连接，只能手动输入密码。</p><p data-vmark=\"6695\">谷歌 Pixel 社区版主给出了临时解决方案，进入“设置 > 系统 > 重置选项 > 重置移动网络设置”。该操作会清除 Wi-Fi、蓝牙及移动网络配置，但不会删除个人数据，用户需重新连接 Wi-Fi 网络并配置 eSIM，实测可恢复 5G 信号。</p>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "IT之家"
+      ],
+      "topicLabel": "射频芯片产业",
+      "regionLabel": "全球新闻",
+      "score": 34,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及技术发布、量产或路线图：发布",
+        "射频赛道信息稀缺，值得保留",
+        "发布时间较新"
+      ],
+      "recommendation": "备查",
+      "keyFacts": [
+        "来源：IT之家",
+        "时间：06/20 09:01",
+        "主题：射频芯片产业",
+        "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Re..."
+      ],
+      "summary": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其二是系统会将用户的垂直滑动操作方向识别为相反方向。 例如，用户向上滑动，界面却向下滚动。 在受影响机型方面，IT之家援引博文介绍，目前 Pixel 10 系列、...",
+      "impact": "关注其对手机射频前端、PA/滤波器、5G/6G、车载通信和国产替代节奏的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n846a9541",
+      "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+      "url": "https://36kr.com/p/3858015526704129?f=rss",
+      "source": "36氪",
+      "domain": "36kr.com",
+      "publishedAt": "2026-06-18T12:47:44.000Z",
+      "snippet": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。 菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库 36氪获悉，6月18日，菜鸟副总裁、物流科技事业部总经理毕江华表示，菜鸟自研生产的攀爬机器人经过618大促检验，显著提升了电商供应链的智能作业能力，下一步菜鸟将加快面向全球市场投入攀爬机器人，未来四个月内，将联合电商平台、知名品牌等在国内和欧洲新交付四座大型攀爬机器人仓库。 钉钉新CEO发布全员信：成立核心平台业务部，整合悟...",
+      "image": "",
+      "topic": "ai",
+      "region": "china",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+        "link": "https://36kr.com/p/3858015526704129?f=rss",
+        "pubDate": "2026-06-18 20:47:44  +0800",
+        "published": "",
+        "updated": "",
+        "description": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858412283827206\"><strong>滴滴自动驾驶参加伦敦MOVE 2026大会</strong></a></p>\n  <p>6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858271871145217\"><strong>菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库</strong></a></p>\n  <p>36氪获悉，6月18日，菜鸟副总裁、物流科技事业部总经理毕江华表示，菜鸟自研生产的攀爬机器人经过618大促检验，显著提升了电商供应链的智能作业能力，下一步菜鸟将加快面向全球市场投入攀爬机器人，未来四个月内，将联合电商平台、知名品牌等在国内和欧洲新交付四座大型攀爬机器人仓库。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858449200780292\"><strong>钉钉新CEO发布全员信：成立核心平台业务部，整合悟空与MuleRun团队</strong></a></p>\n  <p>36氪获悉，钉钉新CEO陈宇森今日发布全员信，宣布成立核心平台业务部，负责钉钉等一系列核心业务，由一粟负责。整合悟空与MuleRun两个团队，成立新的悟空团队，由束骏亮负责。将直销、电销、服务商、售前、交付、客户成功团队全面整合，成立客户发展部，由杨猛负责。成立市场部，由筱琬负责。成立公司信息技术部，负责优化迭代公司各业务系统，由邓悟负责。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858395073664261\"><strong>市场监管总局督导货拉拉落实反垄断合规整改</strong></a></p>\n  <p>前期，市场监管总局依据《中华人民共和国反垄断法》公开约谈货拉拉，要求其停止利用算法不合理压低货运价格、利用平台规则实施强制独家车贴等行为，全面开展自查整改，依法合规经营，主动回应各方关切，自觉接受社会监督。市场监管总局加强对货拉拉反垄断合规整改的全过程督导，压实平台主体责任，督促其严格落实整改要求，具体包括：停止利用算法不合理压低货运价格，严格控制多因素计价订单占比，公平合理运用调价算法，推动平均每单运价、每公里运价合理回升，并常态化公示计价规则和运价涨降理由；全面取消强制独家车贴规则，停止提高抽成、罚款等惩罚措施，并将向司机退还不合理费用1.2亿元；切实降低平台抽成费率，平台整体抽成费率由整改前约11%降至约9%，每年可减轻司机负担超13亿元。（央视新闻）</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858186455831560\"><strong>曹操出行入局Robovan，计划投放10万辆</strong></a></p>\n  <p>6月18日，曹操出行在2026国际汽车及供应链博览会（香港）上宣布全面布局Robovan（自动驾驶货运车）领域。公司正式发布RoboX战略，宣布全面AI转型，致力于打造领先的物理AI移动科技平台。作为RoboX战略的重要组成部分，曹操出行计划到2030年累计投放10万辆Robovan，加速构建覆盖物流配送等场景的智能运力网络。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858184796591369\"><strong>BilibiliWorld 2026成国内首个海外售票的综合性ACG展会</strong></a></p>\n  <p>今日，BilibiliWorld 2026（以下简称BW2026）公布售票信息，将于北京时间2026年6月20日18:00全球同步开票，展会将在2026年7月10日至12日在上海国家会展中心举办。本次BW2026将首次在超过190个国家和地区同步开票，成为全国首个面向海外观众售票的综合性ACG展会。</p>\n  <h2><strong>投融资：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858274566280453\"><strong>KKR对Altavair的飞机租赁业务承诺投资14亿美元</strong></a></p>\n  <p>6月18日，私募股权公司KKR发表声明称，将承诺投入14亿美元股权资金，继续与Altavair合作扩大其全球商用飞机租赁投资组合。KKR表示，这项最新承诺建立在先前与Altavair合作设立的两个飞机租赁组合基础之上。此次投资主要来自KKR的基础设施和资产抵押融资策略。（界面）</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858188204889345\"><strong>“Manifold AI流形空间”完成近10亿元PreA轮融资</strong></a></p>\n  <p>36氪获悉，近日，“Manifold AI流形空间”宣布完成新一轮数亿元融资，本轮新投资方包括中国国新旗下国新基金，淡马锡旗下毅峰资本，产业资本北汽产投、芯能创投，同时四家老股东超额追加投资。</p>\n  <h2><strong>今日观点：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858426262557705\"><strong>高盛：若通胀持续居高不下，美联储9月或开启“连环加息”</strong></a></p>\n  <p>据报道，高盛集团副董事长、达拉斯联储前主席罗伯特·卡普兰日前表示，如果通胀持续居高不下，美联储最早可能需要在9月加息。卡普兰还强调，美联储的政策调整极少是单次行动，利率变动通常会连续进行两到三次。（界面）</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858455470003465\"><strong>香港将推出五年期国债期货</strong></a></p>\n  <p>36氪获悉，香港证券及期货事务监察委员会（香港证监会）欣然宣布，香港计划于2026年8月3日推出五年期国债期货。经评估市场需求及宏观环境后，五年期国债被选为首先在香港交易及结算所有限公司（香港交易所）买卖的国债期货合约的相关资产。香港交易所一直就须获证监会批准的国债期货的推出作必要准备，并将另行公布合约细节。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858393680270599\"><strong>让AI走进千家万户，17项举措推进“人工智能+消费”发展</strong></a></p>\n  <p>商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》，围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，促进人工智能进千家万户、进千商万店，更好满足人民美好生活需要。此次《意见》从供需两侧同时发力，打通了人工智能应用过程中“有产品无市场”或“有需求无供给”的结构性堵点。在商品消费领域，《意见》提出扩大智能终端供给，推动消费电子产品从功能型向智能型转变。布局人形机器人消费新赛道，加速机器人从工业场景向消费场景渗透。搭建商品首发平台促进新产品触达。打造“人、车、家”全场景联动生态，并将AI与脑机接口、增强现实等前沿技术融合，研发推出一批国际领先的新产品。在服务消费领域，《意见》围绕居家、养老、文旅、住宿餐饮、教育五大场景，也提出了多项务实举措。比如，研究将智能家居及服务应用纳入“好房子”建设指南。指导养老服务机构运用人工智能技术，布局信息化管理、智能安防等技术系统，配备智能护理机器人、康复机器人等产品。应用人工智能技术提升境外人员酒店入住服务便利性。 （央视新闻）</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858362375214082\"><strong>商务部：中欧经贸领域沟通顺畅，中方愿与欧方通过对话协商管控分歧</strong></a></p>\n  <p>36氪获悉，在今天召开的商务部例行新闻发布会上，新闻发言人何亚东表示，中欧经贸领域沟通顺畅。6月9日，商务部副部长兼国际贸易谈判副代表凌激在欧盟总部与欧委会贸易和经济安全总司约根森总司长举行会谈，深入、全面地讨论了中欧贸易投资磋商机制的有关工作，为近期计划举行的部长级磋商做好准备。会谈中，欧方表示，贸易战不是欧盟对华政策目标，对中欧开展建设性对话持积极态度。中方愿与欧方共同落实双方领导人共识，通过对话协商管控分歧，妥处摩擦，促进务实合作，推动双边经贸关系健康稳定发展。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3858187276784649\"><strong>快舟十一号遥十三运载火箭发射成功</strong></a></p>\n  <p>北京时间2026年6月17日11时58分，快舟十一号遥十三运载火箭在酒泉卫星发射中心发射升空，将微厘空间05组卫星送入预定轨道，飞行试验任务取得成功。（央视新闻）</p>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "36氪"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "中国新闻",
+      "score": 34,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及财报、订单、产能或供应链：供应链",
+        "涉及技术发布、量产或路线图：发布"
+      ],
+      "recommendation": "备查",
+      "keyFacts": [
+        "来源：36氪",
+        "时间：06/18 20:47",
+        "主题：AI产业",
+        "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与..."
+      ],
+      "summary": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。 菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库 36氪...",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n584452b6",
+      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-06-18T16:55:04.000Z",
+      "snippet": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+        "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+        "pubDate": "Thu, 18 Jun 2026 16:55:04 +0000",
+        "published": "",
+        "updated": "",
+        "description": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "TechCrunch AI"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 34,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及融资、并购或资本开支：spending",
+        "涉及技术发布、量产或路线图：launch"
+      ],
+      "recommendation": "备查",
+      "keyFacts": [
+        "来源：TechCrunch AI",
+        "时间：06/19 00:55",
+        "主题：AI产业",
+        "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, rela..."
+      ],
+      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    },
+    {
+      "id": "n3048aabc",
+      "title": "理想 i6 第 15 万辆量产车正式下线",
+      "url": "https://www.ithome.com/0/966/498.htm",
+      "source": "IT之家",
+      "domain": "ithome.com",
+      "publishedAt": "2026-06-20T05:02:16.000Z",
+      "snippet": "IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博， 宣布理想 i6 第 15 万台量产车下线。 延伸阅读 理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 24.98 万元。 该车拥有 3 米长轴距，配备前排 16.8 英寸 HUD、3K 双联屏以及后排 21.4 英寸 3K 大屏，并内置了理想同学 MindGPT 大模型。 在动力和续航方面，理想 i6 搭载全新 5C 磷酸铁锂电池，支持 5C 超级充电与放电，最大峰值功率超过 500kW，CLTC 工况标准续航为 720 公里。 根据理想汽车官方数据，理想 i6 在 2026 年 4 月 10 日达成第 10 万辆量产车下线，用时不到 7 个月。 此后，该车在 2026 年 6 月 10 日达成了第 14 万辆量产车下线，并已连续三个月交付量突破 2 万辆，位居纯电 SUV 销量前三。",
+      "image": "",
+      "topic": "ai",
+      "region": "global",
+      "origin": "rss",
+      "language": "",
+      "raw": {
+        "title": "理想 i6 第 15 万辆量产车正式下线",
+        "link": "https://www.ithome.com/0/966/498.htm",
+        "pubDate": "Sat, 20 Jun 2026 05:02:16 GMT",
+        "published": "",
+        "updated": "",
+        "description": "<p data-vmark=\"2b3c\">IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博，<strong>宣布理想 i6 第 15 万台量产车下线。</strong></p><p data-vmark=\"2862\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/a111e3a3-fd6e-49fc-92e6-d6abe56c3180.png\" w=\"894\" h=\"1545\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6001272153%2FR4XzEFyRy%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"50d8\" class=\"no-alt-img\"></p><blockquote class=\"ai-point\" data-ai-task=\"bd8d7a85-d8f1-4687-82fd-88f3d4a9a710\" data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-refs=\"JTVCJTVE\"><h3 data-vmark=\"2655\">延伸阅读</h3><p data-vmark=\"3bf7\"><span data-ref-ids=\"931009,937713,962686\" data-ref-urls=\"\">理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 24.98 万元。</span></p><p data-vmark=\"1753\"><span data-ref-ids=\"931009,937713,962686\" data-ref-urls=\"\">该车拥有 3 米长轴距，配备前排 16.8 英寸 HUD、3K 双联屏以及后排 21.4 英寸 3K 大屏，并内置了理想同学 MindGPT 大模型。</span></p><p data-vmark=\"9c4e\"><span data-ref-ids=\"931009,937713,962686\" data-ref-urls=\"\">在动力和续航方面，理想 i6 搭载全新 5C 磷酸铁锂电池，支持 5C 超级充电与放电，最大峰值功率超过 500kW，CLTC 工况标准续航为 720 公里。</span></p><p data-vmark=\"891a\"><span data-ref-ids=\"937713\" data-ref-urls=\"\">根据理想汽车官方数据，理想 i6 在 2026 年 4 月 10 日达成第 10 万辆量产车下线，用时不到 7 个月。</span><span data-ref-ids=\"962686\" data-ref-urls=\"\">此后，该车在 2026 年 6 月 10 日达成了第 14 万辆量产车下线，并已连续三个月交付量突破 2 万辆，位居纯电 SUV 销量前三。</span></p></blockquote>",
+        "image": ""
+      },
+      "mentions": 1,
+      "mergedSources": [
+        "IT之家"
+      ],
+      "topicLabel": "AI产业",
+      "regionLabel": "全球新闻",
+      "score": 34,
+      "scoreReasons": [
+        "来自订阅源，来源可追踪",
+        "涉及技术发布、量产或路线图：量产、发布、突破",
+        "发布时间较新"
+      ],
+      "recommendation": "备查",
+      "keyFacts": [
+        "来源：IT之家",
+        "时间：06/20 13:02",
+        "主题：AI产业",
+        "IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博， 宣布理想 i6 第 15 万台量产车下线。 延伸阅读 理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 ..."
+      ],
+      "summary": "IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博， 宣布理想 i6 第 15 万台量产车下线。 延伸阅读 理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 24.98 万元。 该车拥有 3 米长轴距，配备前排 16.8 英寸 HUD、3K 双联屏以及后排 21.4 英寸 3K 大屏，并内置了理想同学 MindGPT 大模型。 在动力和续航方面，理想 i6 搭载全新 5C 磷酸铁锂电池，支持 5C 超级充电与放电，最大峰值功率超过 5...",
+      "impact": "关注其对算力需求、模型商业化、数据中心建设、AI应用落地和监管环境的影响。",
+      "whyRead": "信息价值偏背景，可作为后续检索线索。",
+      "credibility": "较高：来自固定订阅源，仍建议以原文为准。"
+    }
+  ]
+}

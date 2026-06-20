@@ -1,0 +1,15 @@
+{
+  "name": "ai-industry-news-assistant",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-daily.js",
+    "daily": "node scripts/generate-daily.js --push",
+    "push": "node scripts/push-wechat.js",
+    "serve": "node scripts/serve.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

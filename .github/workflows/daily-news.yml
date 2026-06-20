@@ -29,7 +29,7 @@ jobs:
         run: node scripts/generate-daily.js --push
         env:
           TZ: Asia/Shanghai
-          SITE_URL: ${{ vars.SITE_URL }}
+          SITE_URL: https://ghuahuag.github.io/GHUAHUA/
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
           PUSHPLUS_CHANNEL: wechat
           PUSHPLUS_TOPIC: ${{ secrets.PUSHPLUS_TOPIC }}

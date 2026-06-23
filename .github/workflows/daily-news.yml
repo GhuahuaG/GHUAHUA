@@ -42,8 +42,11 @@ jobs:
           git config user.name "news-assistant-bot"
           git config user.email "news-assistant-bot@users.noreply.github.com"
           git add public/data
-          git diff --cached --quiet || git commit -m "Update daily industry news report"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update daily industry news report"
+            git pull --rebase origin main
+            git push
+          fi
 
       - uses: actions/configure-pages@v5
 
@@ -68,5 +71,8 @@ jobs:
       - name: Commit WeChat push state
         run: |
           git add public/data/push-state.json
-          git diff --cached --quiet || git commit -m "Update WeChat push state"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update WeChat push state"
+            git pull --rebase origin main
+            git push
+          fi

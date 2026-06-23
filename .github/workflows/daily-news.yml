@@ -9,9 +9,9 @@ on:
         default: false
         type: boolean
   schedule:
-    # Beijing 20:30 = UTC 12:30. Beijing 20:45 is a backup run.
-    - cron: "30 12 * * *"
-    - cron: "45 12 * * *"
+    # Beijing 06:30.
+    - cron: "30 6 * * *"
+      timezone: "Asia/Shanghai"
 
 permissions:
   contents: write

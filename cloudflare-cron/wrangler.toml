@@ -1,6 +1,7 @@
 name = "ai-news-morning-trigger"
 main = "src/index.js"
 compatibility_date = "2026-06-23"
+workers_dev = false
 
 [triggers]
 # Cloudflare Cron uses UTC. 22:30 UTC = 06:30 Beijing time.

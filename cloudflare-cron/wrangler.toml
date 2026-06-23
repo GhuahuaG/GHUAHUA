@@ -1,0 +1,13 @@
+name = "ai-news-morning-trigger"
+main = "src/index.js"
+compatibility_date = "2026-06-23"
+
+[triggers]
+# Cloudflare Cron uses UTC. 22:30 UTC = 06:30 Beijing time.
+crons = ["30 22 * * *"]
+
+[vars]
+GITHUB_OWNER = "GhuahuaG"
+GITHUB_REPO = "GHUAHUA"
+GITHUB_WORKFLOW_ID = "daily-news.yml"
+GITHUB_REF = "main"

@@ -91,7 +91,15 @@ http://localhost:4173
    - 可选：`LLM_MODEL`
 5. 启用 GitHub Pages，来源选择 GitHub Actions。
 
-项目里的 `.github/workflows/daily-news.yml` 已经配置了每天北京时间 20:30 运行。
+项目里的 `.github/workflows/daily-news.yml` 只保留手动/外部触发入口，不再使用 GitHub 自带定时器。
+
+每天早上 6:30 的准点触发由 `cloudflare-cron/` 里的 Cloudflare Worker 负责：
+
+1. GitHub Actions 负责生成日报、部署网页并推送微信。
+2. Cloudflare Workers Cron 负责每天北京时间 6:30 触发 GitHub Actions。
+3. Cloudflare Cron 使用 UTC，所以配置为 `30 22 * * *`。
+
+部署外部闹钟的步骤见 `cloudflare-cron/README.md`。
 
 ## 微信推送
 

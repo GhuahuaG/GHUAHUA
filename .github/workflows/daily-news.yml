@@ -8,10 +8,6 @@ on:
         required: false
         default: false
         type: boolean
-  schedule:
-    # Beijing 06:30.
-    - cron: "30 6 * * *"
-      timezone: "Asia/Shanghai"
 
 permissions:
   contents: write

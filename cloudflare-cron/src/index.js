@@ -1,8 +1,8 @@
-const GITHUB_API_VERSION = "2026-03-10";
+const GITHUB_API_VERSION = "2022-11-28";
 
 export default {
   async scheduled(controller, env, ctx) {
-    ctx.waitUntil(triggerDailyNews(env, "cloudflare-cron"));
+    ctx.waitUntil(runScheduledTrigger(env));
   },
 
   async fetch(request, env) {
@@ -32,6 +32,15 @@ export default {
   }
 };
 
+async function runScheduledTrigger(env) {
+  try {
+    await triggerDailyNews(env, "cloudflare-cron");
+  } catch (error) {
+    console.error("Daily news trigger failed:", error);
+    throw error;
+  }
+}
+
 async function triggerDailyNews(env, source) {
   const token = requireEnv(env, "GITHUB_TOKEN");
   const owner = env.GITHUB_OWNER || "GhuahuaG";
@@ -52,7 +61,7 @@ async function triggerDailyNews(env, source) {
     body: JSON.stringify({
       ref,
       inputs: {
-        force_push: false
+        force_push: "false"
       }
     })
   });

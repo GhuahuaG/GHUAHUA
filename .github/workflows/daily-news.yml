@@ -6,8 +6,8 @@ on:
       force_push:
         description: "Force WeChat push even if today's report was already sent"
         required: false
-        default: false
-        type: boolean
+        default: "false"
+        type: string
 
 permissions:
   contents: write

@@ -58,12 +58,7 @@ async function triggerDailyNews(env, source) {
       "user-agent": "ai-news-morning-trigger",
       "x-github-api-version": GITHUB_API_VERSION
     },
-    body: JSON.stringify({
-      ref,
-      inputs: {
-        force_push: "false"
-      }
-    })
+    body: JSON.stringify({ ref })
   });
 
   const text = await response.text();

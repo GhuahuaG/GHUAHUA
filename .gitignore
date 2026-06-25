@@ -3,5 +3,8 @@
 node_modules/
 .wrangler/
 cloudflare-cron/.wrangler/
+cloudflare-cron/.npm-cache/
+cloudflare-cron/.xdg-config/
+cloudflare-cron/.wrangler-logs/
 .DS_Store
 Thumbs.db

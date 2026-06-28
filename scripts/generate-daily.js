@@ -362,11 +362,16 @@ function isTopicRelevant(article, fullConfig) {
     "RF front-end", "RFFE", "radio frequency chip", "power amplifier", "PA module",
     "filter", "SAW", "BAW", "GaN", "SiGe", "mmWave", "5G", "6G",
     "Qorvo", "Skyworks", "Broadcom", "Qualcomm", "Murata", "Maxscend", "Vanchip",
-    "射频前端", "射频芯片", "功率放大器", "滤波器", "氮化镓", "毫米波", "卓胜微", "唯捷创芯", "慧智微", "昂瑞微"
+    "satellite communications", "satcom", "satellite internet", "phased array", "T/R module",
+    "microwave module", "space RF",
+    "射频前端", "射频芯片", "功率放大器", "滤波器", "氮化镓", "毫米波",
+    "卫星通信", "卫星互联网", "低轨卫星", "商业航天", "相控阵", "T/R组件", "TR组件",
+    "微波组件", "射频组件", "射频微波", "星载", "天线", "雷达",
+    "卓胜微", "唯捷创芯", "慧智微", "昂瑞微", "时代速信"
   ];
   const chipContext = [
     "chip", "semiconductor", "module", "wafer", "foundry", "device", "component",
-    "芯片", "半导体", "模组", "器件", "晶圆", "前端"
+    "芯片", "半导体", "模组", "器件", "晶圆", "前端", "组件", "核心组件", "模块"
   ];
   const eventOnly = ["conference", "webinar", "workshop", "course", "summit", "expo", "研讨会", "峰会", "课程", "展会"];
   const hasRfCore = rfCore.some((keyword) => containsTerm(text, keyword));

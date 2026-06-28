@@ -83,16 +83,37 @@
         "Skyworks",
         "Broadcom",
         "Murata",
+        "satellite communications",
+        "satcom",
+        "satellite internet",
+        "phased array",
+        "T/R module",
+        "microwave module",
+        "space RF",
         "射频",
         "射频前端",
         "功率放大器",
         "滤波器",
         "毫米波",
         "氮化镓",
+        "卫星通信",
+        "卫星互联网",
+        "低轨卫星",
+        "商业航天",
+        "相控阵",
+        "T/R组件",
+        "TR组件",
+        "微波组件",
+        "射频组件",
+        "射频微波",
+        "星载",
+        "天线",
+        "雷达",
         "卓胜微",
         "唯捷创芯",
         "昂瑞微",
-        "慧智微"
+        "慧智微",
+        "时代速信"
       ]
     }
   },
@@ -144,6 +165,7 @@
       "capacity",
       "yield",
       "supply chain",
+      "market share",
       "财报",
       "营收",
       "指引",
@@ -152,7 +174,11 @@
       "出货",
       "产能",
       "良率",
-      "供应链"
+      "供应链",
+      "市场占有率",
+      "市占率",
+      "市场份额",
+      "份额"
     ],
     "technology": [
       "breakthrough",
@@ -208,7 +234,8 @@
     "卓胜微",
     "唯捷创芯",
     "慧智微",
-    "昂瑞微"
+    "昂瑞微",
+    "时代速信"
   ],
   "authorityDomains": [
     "nvidia.com",
@@ -256,7 +283,7 @@
     {
       "topic": "rf",
       "region": "global",
-      "query": "(\"RF front-end\" OR \"radio frequency chip\" OR \"power amplifier\" OR \"BAW filter\" OR \"SAW filter\" OR GaN OR mmWave)"
+      "query": "(\"RF front-end\" OR \"radio frequency chip\" OR \"power amplifier\" OR \"BAW filter\" OR \"SAW filter\" OR GaN OR mmWave OR \"satellite communications\" OR satcom OR \"satellite internet\" OR \"phased array\" OR \"T/R module\" OR \"microwave module\")"
     },
     {
       "topic": "ai",
@@ -271,7 +298,7 @@
     {
       "topic": "rf",
       "region": "china",
-      "query": "(China OR Chinese OR Maxscend OR Vanchip OR \"Smarter Micro\" OR Lansus) (RF OR \"radio frequency\" OR \"RF front-end\" OR filter OR \"power amplifier\" OR GaN)"
+      "query": "(China OR Chinese OR Maxscend OR Vanchip OR \"Smarter Micro\" OR Lansus OR \"commercial space\" OR \"satellite internet\" OR satcom OR 时代速信) (RF OR \"radio frequency\" OR \"RF front-end\" OR filter OR \"power amplifier\" OR GaN OR \"phased array\" OR \"T/R module\" OR \"microwave module\" OR 卫星通信 OR 商业航天 OR 相控阵 OR 微波组件 OR 射频组件)"
     }
   ],
   "rssFeeds": [
